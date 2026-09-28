@@ -1,0 +1,11938 @@
+[
+ {
+  "x": 55.77,
+  "y": 98.97,
+  "z": -190.0,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -144.18,
+  "y": 96.45,
+  "z": -159.0,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -165.22,
+  "y": 97.32,
+  "z": -31.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": -106.94,
+  "y": 97.68,
+  "z": 40.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": 59.95,
+  "y": 100.53,
+  "z": 17.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -88.72,
+  "y": 97.03,
+  "z": 147.72,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 79.26,
+  "y": 100.61,
+  "z": -63.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -65.36,
+  "y": 96.98,
+  "z": -162.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 41.49,
+  "y": 99.66,
+  "z": 122.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -150.07,
+  "y": 96.12,
+  "z": 168.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 131.76,
+  "y": 101.43,
+  "z": 47.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": -123.08,
+  "y": 96.37,
+  "z": -172.18,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -84.24,
+  "y": 96.68,
+  "z": -168.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": -47.95,
+  "y": 98.66,
+  "z": -18.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": -51.93,
+  "y": 97.79,
+  "z": -116.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 59.21,
+  "y": 100.42,
+  "z": 43.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": -102.08,
+  "y": 97.71,
+  "z": -15.1,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 75.26,
+  "y": 100.21,
+  "z": -112.15,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 110.4,
+  "y": 100.57,
+  "z": -108.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -39.53,
+  "y": 97.54,
+  "z": -173.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 150.55,
+  "y": 101.27,
+  "z": -74.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 153.87,
+  "y": 101.22,
+  "z": 57.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": -101.35,
+  "y": 97.7,
+  "z": 24.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -28.63,
+  "y": 98.84,
+  "z": 33.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": 3.81,
+  "y": 98.25,
+  "z": -163.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": -138.86,
+  "y": 96.72,
+  "z": -136.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -174.59,
+  "y": 97.56,
+  "z": -47.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -99.43,
+  "y": 97.93,
+  "z": 21.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 88.29,
+  "y": 100.79,
+  "z": 72.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": 107.44,
+  "y": 100.99,
+  "z": -63.93,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": -18.51,
+  "y": 97.83,
+  "z": 181.53,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 188.76,
+  "y": 100.87,
+  "z": 104.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 148.21,
+  "y": 101.21,
+  "z": -80.62,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -120.44,
+  "y": 97.4,
+  "z": -50.43,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 168.97,
+  "y": 100.28,
+  "z": 167.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -192.21,
+  "y": 96.45,
+  "z": 171.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": -104.22,
+  "y": 97.27,
+  "z": -103.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -165.74,
+  "y": 97.38,
+  "z": -5.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 13.08,
+  "y": 98.79,
+  "z": -149.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -133.95,
+  "y": 97.58,
+  "z": 11.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 171.57,
+  "y": 101.02,
+  "z": 102.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -75.31,
+  "y": 96.56,
+  "z": 198.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 159.85,
+  "y": 101.4,
+  "z": -19.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": -64.77,
+  "y": 98.15,
+  "z": 35.32,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -197.12,
+  "y": 97.18,
+  "z": 83.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 162.17,
+  "y": 100.41,
+  "z": 143.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -88.61,
+  "y": 97.96,
+  "z": -5.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 174.21,
+  "y": 101.42,
+  "z": 28.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -10.81,
+  "y": 99.09,
+  "z": -37.18,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -27.58,
+  "y": 98.9,
+  "z": -30.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": -178.33,
+  "y": 97.4,
+  "z": 61.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": -38.95,
+  "y": 98.64,
+  "z": -64.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -123.36,
+  "y": 97.49,
+  "z": 14.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": -88.58,
+  "y": 97.59,
+  "z": -100.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 123.21,
+  "y": 100.33,
+  "z": 142.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 199.71,
+  "y": 100.62,
+  "z": 134.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 139.48,
+  "y": 100.63,
+  "z": -133.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 145.86,
+  "y": 100.23,
+  "z": 160.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": 194.12,
+  "y": 101.01,
+  "z": -93.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -85.9,
+  "y": 97.74,
+  "z": 78.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 22.31,
+  "y": 99.46,
+  "z": 87.36,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": -112.92,
+  "y": 96.41,
+  "z": -176.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 99.19,
+  "y": 99.84,
+  "z": -177.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 167.75,
+  "y": 101.35,
+  "z": 12.45,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -167.96,
+  "y": 96.79,
+  "z": -125.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 144.73,
+  "y": 101.54,
+  "z": -38.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": -101.51,
+  "y": 97.76,
+  "z": 37.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 62.95,
+  "y": 100.59,
+  "z": 26.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": -118.3,
+  "y": 97.2,
+  "z": 86.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": -147.65,
+  "y": 97.32,
+  "z": 58.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 174.29,
+  "y": 99.91,
+  "z": -196.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 198.44,
+  "y": 99.97,
+  "z": -170.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": -147.02,
+  "y": 97.19,
+  "z": -60.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -52.19,
+  "y": 97.73,
+  "z": -136.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -78.99,
+  "y": 96.61,
+  "z": 193.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -196.87,
+  "y": 96.83,
+  "z": 126.84,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -158.57,
+  "y": 96.39,
+  "z": 151.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 96.97,
+  "y": 100.2,
+  "z": -137.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 87.04,
+  "y": 100.4,
+  "z": -118.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 2.16,
+  "y": 99.18,
+  "z": -99.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": -163.08,
+  "y": 97.39,
+  "z": -30.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -66.58,
+  "y": 97.41,
+  "z": -147.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 96.49,
+  "y": 101.1,
+  "z": 20.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -155.25,
+  "y": 96.19,
+  "z": 178.02,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 18.24,
+  "y": 99.05,
+  "z": 133.84,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -28.09,
+  "y": 97.47,
+  "z": -183.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 188.88,
+  "y": 99.91,
+  "z": -184.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": -100.19,
+  "y": 96.77,
+  "z": -158.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 189.53,
+  "y": 101.03,
+  "z": 99.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": 145.84,
+  "y": 100.06,
+  "z": 190.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -190.09,
+  "y": 97.11,
+  "z": 94.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 120.89,
+  "y": 100.49,
+  "z": 145.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": -136.32,
+  "y": 97.18,
+  "z": 80.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 143.44,
+  "y": 100.98,
+  "z": -111.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -60.14,
+  "y": 97.7,
+  "z": 128.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -190.53,
+  "y": 96.84,
+  "z": -122.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 186.76,
+  "y": 101.07,
+  "z": -88.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 71.81,
+  "y": 99.88,
+  "z": 137.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -153.86,
+  "y": 95.91,
+  "z": 188.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": -184.7,
+  "y": 97.45,
+  "z": 38.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -74.53,
+  "y": 98.05,
+  "z": 42.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 159.8,
+  "y": 100.63,
+  "z": -123.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -199.32,
+  "y": 96.41,
+  "z": 170.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 176.11,
+  "y": 100.93,
+  "z": 94.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -172.01,
+  "y": 97.25,
+  "z": 65.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 65.35,
+  "y": 99.81,
+  "z": -150.15,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -76.29,
+  "y": 98.02,
+  "z": -36.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 21.76,
+  "y": 99.26,
+  "z": -123.26,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 70.93,
+  "y": 99.68,
+  "z": 161.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": -37.57,
+  "y": 97.87,
+  "z": 133.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": -28.04,
+  "y": 98.94,
+  "z": 31.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -23.29,
+  "y": 98.79,
+  "z": 70.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 160.47,
+  "y": 100.73,
+  "z": 118.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -86.49,
+  "y": 97.8,
+  "z": 65.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 127.37,
+  "y": 100.97,
+  "z": 100.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 122.63,
+  "y": 100.32,
+  "z": -141.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 44.51,
+  "y": 99.79,
+  "z": 107.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 30.27,
+  "y": 99.68,
+  "z": 87.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": -102.41,
+  "y": 97.44,
+  "z": 62.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 144.18,
+  "y": 100.49,
+  "z": 154.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -129.65,
+  "y": 96.15,
+  "z": 183.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 22.96,
+  "y": 98.61,
+  "z": 166.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": 120.57,
+  "y": 101.29,
+  "z": 67.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -73.08,
+  "y": 97.64,
+  "z": 102.1,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 156.81,
+  "y": 101.58,
+  "z": -29.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 158.88,
+  "y": 101.02,
+  "z": 97.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 100.71,
+  "y": 100.26,
+  "z": 135.95,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 8.52,
+  "y": 99.47,
+  "z": 50.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 85.42,
+  "y": 100.41,
+  "z": -106.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -167.77,
+  "y": 96.57,
+  "z": -139.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 82.57,
+  "y": 99.62,
+  "z": -174.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -13.63,
+  "y": 98.0,
+  "z": -175.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 161.94,
+  "y": 101.5,
+  "z": 33.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 30.28,
+  "y": 100.22,
+  "z": -9.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 101.39,
+  "y": 100.41,
+  "z": 141.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 15.29,
+  "y": 99.46,
+  "z": 93.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -4.71,
+  "y": 98.99,
+  "z": -90.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -65.55,
+  "y": 97.99,
+  "z": 71.66,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 136.2,
+  "y": 100.36,
+  "z": 167.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -189.21,
+  "y": 97.53,
+  "z": -42.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -166.42,
+  "y": 97.58,
+  "z": -28.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": -179.89,
+  "y": 97.35,
+  "z": -48.36,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -65.0,
+  "y": 97.17,
+  "z": 151.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -99.09,
+  "y": 96.45,
+  "z": -167.24,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -179.17,
+  "y": 96.06,
+  "z": 180.77,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 112.49,
+  "y": 101.19,
+  "z": 60.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -120.26,
+  "y": 95.99,
+  "z": -191.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": -10.58,
+  "y": 98.35,
+  "z": -154.24,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 79.79,
+  "y": 100.28,
+  "z": 106.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": 185.49,
+  "y": 101.12,
+  "z": 87.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 185.89,
+  "y": 100.17,
+  "z": -156.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 30.32,
+  "y": 98.87,
+  "z": 163.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -120.67,
+  "y": 97.66,
+  "z": 36.84,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -159.24,
+  "y": 97.03,
+  "z": 108.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": 122.21,
+  "y": 100.73,
+  "z": 118.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -61.12,
+  "y": 98.27,
+  "z": -28.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 59.02,
+  "y": 99.01,
+  "z": -194.94,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -157.78,
+  "y": 96.09,
+  "z": 184.32,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 82.92,
+  "y": 101.01,
+  "z": -25.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": -91.97,
+  "y": 97.2,
+  "z": 123.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -14.05,
+  "y": 98.45,
+  "z": 130.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 140.69,
+  "y": 100.53,
+  "z": 132.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": -102.45,
+  "y": 97.81,
+  "z": -14.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -65.44,
+  "y": 98.23,
+  "z": -2.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -115.15,
+  "y": 96.94,
+  "z": 119.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": 80.47,
+  "y": 100.4,
+  "z": -89.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": -165.75,
+  "y": 97.12,
+  "z": 88.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -103.87,
+  "y": 97.84,
+  "z": -9.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 117.17,
+  "y": 100.08,
+  "z": -162.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": -102.68,
+  "y": 97.53,
+  "z": 65.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 12.37,
+  "y": 99.77,
+  "z": -29.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -59.28,
+  "y": 98.31,
+  "z": -18.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -151.74,
+  "y": 96.67,
+  "z": -122.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": 180.35,
+  "y": 101.06,
+  "z": 76.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -6.32,
+  "y": 99.12,
+  "z": 89.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": 38.72,
+  "y": 98.81,
+  "z": 192.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": -109.01,
+  "y": 96.8,
+  "z": -128.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -149.37,
+  "y": 95.96,
+  "z": -181.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 78.97,
+  "y": 100.01,
+  "z": -149.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -158.96,
+  "y": 95.85,
+  "z": -195.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -23.81,
+  "y": 98.14,
+  "z": -126.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -154.37,
+  "y": 96.18,
+  "z": -173.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 51.78,
+  "y": 99.01,
+  "z": -178.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 179.65,
+  "y": 100.15,
+  "z": -165.93,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 105.78,
+  "y": 101.24,
+  "z": 42.53,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 110.28,
+  "y": 101.29,
+  "z": -47.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 144.07,
+  "y": 99.83,
+  "z": 196.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -175.91,
+  "y": 95.97,
+  "z": 184.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -116.88,
+  "y": 97.06,
+  "z": -115.59,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": -104.05,
+  "y": 97.65,
+  "z": 20.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -19.8,
+  "y": 98.97,
+  "z": 37.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -84.76,
+  "y": 97.73,
+  "z": -86.91,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 74.95,
+  "y": 99.68,
+  "z": 169.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 35.92,
+  "y": 99.41,
+  "z": 121.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": 17.82,
+  "y": 99.8,
+  "z": 59.05,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -171.44,
+  "y": 96.63,
+  "z": -133.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": 129.7,
+  "y": 100.16,
+  "z": 168.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 75.47,
+  "y": 100.68,
+  "z": 79.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 15.99,
+  "y": 99.82,
+  "z": -24.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 93.81,
+  "y": 100.88,
+  "z": 41.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 184.76,
+  "y": 100.6,
+  "z": 134.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": 199.83,
+  "y": 101.01,
+  "z": 68.91,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 105.24,
+  "y": 100.45,
+  "z": -129.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 166.43,
+  "y": 100.75,
+  "z": -127.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 125.7,
+  "y": 99.9,
+  "z": 187.62,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -66.68,
+  "y": 98.14,
+  "z": 68.05,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -35.34,
+  "y": 98.86,
+  "z": -1.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 125.43,
+  "y": 101.37,
+  "z": 20.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -99.04,
+  "y": 96.84,
+  "z": -153.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 129.97,
+  "y": 99.9,
+  "z": -199.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -34.7,
+  "y": 98.04,
+  "z": -124.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -0.6,
+  "y": 99.33,
+  "z": -23.18,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": 19.69,
+  "y": 98.59,
+  "z": 171.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": -6.12,
+  "y": 97.92,
+  "z": -188.45,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": 83.91,
+  "y": 100.55,
+  "z": -75.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -162.72,
+  "y": 96.02,
+  "z": 196.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 178.82,
+  "y": 101.17,
+  "z": 59.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -83.26,
+  "y": 97.66,
+  "z": 82.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 192.1,
+  "y": 100.88,
+  "z": -102.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -123.76,
+  "y": 97.6,
+  "z": 39.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": 145.61,
+  "y": 101.18,
+  "z": -89.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -64.05,
+  "y": 97.6,
+  "z": 115.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -86.86,
+  "y": 97.67,
+  "z": -80.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -4.14,
+  "y": 98.51,
+  "z": -140.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": -67.02,
+  "y": 97.68,
+  "z": 105.15,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 147.84,
+  "y": 99.87,
+  "z": 192.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -106.58,
+  "y": 97.02,
+  "z": 110.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -10.81,
+  "y": 98.04,
+  "z": 165.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": 116.96,
+  "y": 101.05,
+  "z": 60.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -149.5,
+  "y": 95.98,
+  "z": 186.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 149.68,
+  "y": 101.47,
+  "z": -23.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -193.86,
+  "y": 96.81,
+  "z": -142.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -170.07,
+  "y": 96.83,
+  "z": 112.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 77.08,
+  "y": 100.82,
+  "z": 59.93,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 143.74,
+  "y": 101.31,
+  "z": -48.0,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": 154.98,
+  "y": 101.51,
+  "z": -4.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -172.63,
+  "y": 97.51,
+  "z": 52.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 98.71,
+  "y": 101.01,
+  "z": -26.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 81.56,
+  "y": 99.71,
+  "z": -159.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 161.37,
+  "y": 100.17,
+  "z": -181.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": -56.61,
+  "y": 98.31,
+  "z": -27.73,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 26.37,
+  "y": 99.26,
+  "z": 117.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 43.8,
+  "y": 100.29,
+  "z": -46.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": 165.13,
+  "y": 100.54,
+  "z": -142.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": -16.17,
+  "y": 99.07,
+  "z": 66.74,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 160.48,
+  "y": 101.14,
+  "z": 71.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 178.09,
+  "y": 99.81,
+  "z": 195.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 76.13,
+  "y": 100.8,
+  "z": -17.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 141.33,
+  "y": 100.32,
+  "z": -157.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 29.92,
+  "y": 98.42,
+  "z": 197.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -41.68,
+  "y": 97.2,
+  "z": -196.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 97.87,
+  "y": 99.79,
+  "z": -180.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": 133.14,
+  "y": 100.36,
+  "z": 161.17,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 42.83,
+  "y": 100.19,
+  "z": -59.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -99.75,
+  "y": 97.39,
+  "z": 102.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 135.33,
+  "y": 101.44,
+  "z": 51.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": -184.23,
+  "y": 96.79,
+  "z": 115.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 92.94,
+  "y": 99.85,
+  "z": -163.95,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -33.8,
+  "y": 98.24,
+  "z": -119.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 12.34,
+  "y": 98.63,
+  "z": 165.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 165.62,
+  "y": 100.27,
+  "z": 177.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 98.62,
+  "y": 100.84,
+  "z": -64.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": -143.7,
+  "y": 96.15,
+  "z": 186.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 69.76,
+  "y": 100.8,
+  "z": -41.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -53.69,
+  "y": 97.68,
+  "z": 116.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -150.56,
+  "y": 97.44,
+  "z": -52.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 33.82,
+  "y": 99.51,
+  "z": 128.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 69.93,
+  "y": 100.82,
+  "z": -11.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -68.8,
+  "y": 98.17,
+  "z": 44.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 129.54,
+  "y": 100.17,
+  "z": 163.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -153.33,
+  "y": 95.95,
+  "z": -181.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -153.55,
+  "y": 96.96,
+  "z": -106.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -18.54,
+  "y": 98.97,
+  "z": 68.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -32.35,
+  "y": 98.3,
+  "z": 96.91,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 61.97,
+  "y": 99.86,
+  "z": 133.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": -186.91,
+  "y": 97.43,
+  "z": -51.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": 142.18,
+  "y": 100.38,
+  "z": -160.26,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": 160.68,
+  "y": 101.2,
+  "z": 57.93,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": -124.08,
+  "y": 96.67,
+  "z": -151.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -163.33,
+  "y": 96.91,
+  "z": -115.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -179.77,
+  "y": 97.47,
+  "z": -66.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 25.83,
+  "y": 98.79,
+  "z": -172.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 34.55,
+  "y": 99.35,
+  "z": 125.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -140.98,
+  "y": 96.23,
+  "z": 160.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 195.01,
+  "y": 101.43,
+  "z": 16.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": 64.42,
+  "y": 99.04,
+  "z": -189.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 115.37,
+  "y": 101.12,
+  "z": 35.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": -179.04,
+  "y": 97.09,
+  "z": 96.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -174.58,
+  "y": 97.47,
+  "z": -20.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -156.38,
+  "y": 97.63,
+  "z": 1.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 90.9,
+  "y": 99.94,
+  "z": 163.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": -16.78,
+  "y": 97.57,
+  "z": 185.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 138.92,
+  "y": 101.3,
+  "z": -29.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": 163.88,
+  "y": 100.09,
+  "z": -170.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -140.67,
+  "y": 96.54,
+  "z": -149.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": 19.34,
+  "y": 99.79,
+  "z": -69.93,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -82.04,
+  "y": 98.02,
+  "z": 2.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 80.71,
+  "y": 100.07,
+  "z": 141.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 20.53,
+  "y": 98.9,
+  "z": 146.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -34.47,
+  "y": 97.99,
+  "z": 130.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": -161.97,
+  "y": 97.51,
+  "z": -29.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 181.44,
+  "y": 101.15,
+  "z": 74.73,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 132.71,
+  "y": 100.14,
+  "z": -162.71,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -50.94,
+  "y": 97.39,
+  "z": -147.95,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 24.67,
+  "y": 99.73,
+  "z": 68.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": 176.45,
+  "y": 101.54,
+  "z": -30.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 187.36,
+  "y": 101.28,
+  "z": 40.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 2.97,
+  "y": 98.67,
+  "z": -138.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": -59.95,
+  "y": 98.23,
+  "z": 22.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": 29.64,
+  "y": 99.47,
+  "z": 122.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 127.37,
+  "y": 101.35,
+  "z": 45.43,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": 43.6,
+  "y": 100.2,
+  "z": 63.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -127.83,
+  "y": 97.2,
+  "z": 81.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -59.59,
+  "y": 97.5,
+  "z": -127.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -39.69,
+  "y": 97.82,
+  "z": -143.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -163.3,
+  "y": 97.46,
+  "z": 12.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -63.64,
+  "y": 98.24,
+  "z": -51.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 176.56,
+  "y": 101.5,
+  "z": 38.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -137.04,
+  "y": 97.48,
+  "z": 47.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": -22.75,
+  "y": 99.03,
+  "z": -30.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -90.73,
+  "y": 97.3,
+  "z": 101.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -155.64,
+  "y": 97.27,
+  "z": 71.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": 66.85,
+  "y": 99.29,
+  "z": -181.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -178.09,
+  "y": 97.01,
+  "z": -118.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -145.11,
+  "y": 96.99,
+  "z": -97.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -1.05,
+  "y": 99.33,
+  "z": -27.74,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": 81.47,
+  "y": 101.06,
+  "z": 0.1,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": -171.17,
+  "y": 96.42,
+  "z": 144.71,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -16.1,
+  "y": 97.87,
+  "z": -168.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 29.36,
+  "y": 99.7,
+  "z": 83.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": -37.99,
+  "y": 97.19,
+  "z": 186.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -15.96,
+  "y": 98.85,
+  "z": 75.84,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 137.79,
+  "y": 100.97,
+  "z": -102.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -168.54,
+  "y": 96.58,
+  "z": 148.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -66.77,
+  "y": 97.44,
+  "z": -132.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": 12.24,
+  "y": 99.11,
+  "z": -122.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 90.95,
+  "y": 100.4,
+  "z": 127.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -158.88,
+  "y": 96.93,
+  "z": -97.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 104.09,
+  "y": 100.93,
+  "z": 62.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 51.18,
+  "y": 100.49,
+  "z": -14.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -20.44,
+  "y": 97.85,
+  "z": 169.66,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 194.61,
+  "y": 101.25,
+  "z": -70.72,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -139.62,
+  "y": 96.21,
+  "z": -172.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 118.53,
+  "y": 101.24,
+  "z": 36.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": -75.84,
+  "y": 97.97,
+  "z": -19.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": -169.31,
+  "y": 96.65,
+  "z": 145.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 37.63,
+  "y": 100.15,
+  "z": -46.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 95.57,
+  "y": 99.82,
+  "z": -183.59,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 60.73,
+  "y": 100.38,
+  "z": -71.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 183.09,
+  "y": 101.51,
+  "z": -19.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": 192.95,
+  "y": 100.19,
+  "z": -166.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -100.9,
+  "y": 97.76,
+  "z": -24.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": 43.92,
+  "y": 100.32,
+  "z": -54.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -36.49,
+  "y": 98.6,
+  "z": -64.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 52.35,
+  "y": 100.23,
+  "z": -66.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 71.35,
+  "y": 100.5,
+  "z": -86.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": 185.76,
+  "y": 101.23,
+  "z": 41.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 33.1,
+  "y": 99.16,
+  "z": -143.43,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 79.39,
+  "y": 100.86,
+  "z": -43.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -76.17,
+  "y": 98.08,
+  "z": -49.33,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": 68.05,
+  "y": 100.01,
+  "z": 131.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 164.98,
+  "y": 100.37,
+  "z": -162.62,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -55.27,
+  "y": 98.2,
+  "z": -54.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": -63.31,
+  "y": 97.67,
+  "z": 106.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": -138.02,
+  "y": 97.29,
+  "z": -81.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 108.35,
+  "y": 100.54,
+  "z": 134.05,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 64.77,
+  "y": 99.71,
+  "z": 150.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -49.31,
+  "y": 97.8,
+  "z": -135.1,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 49.9,
+  "y": 99.36,
+  "z": 161.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -35.66,
+  "y": 98.47,
+  "z": 70.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 44.24,
+  "y": 99.94,
+  "z": 100.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 13.6,
+  "y": 99.57,
+  "z": -76.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 161.59,
+  "y": 100.84,
+  "z": -122.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 193.78,
+  "y": 101.29,
+  "z": -15.33,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 1.16,
+  "y": 99.37,
+  "z": -32.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": 120.5,
+  "y": 100.33,
+  "z": -144.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": -7.76,
+  "y": 99.34,
+  "z": -51.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": 138.36,
+  "y": 100.49,
+  "z": 140.47,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -135.88,
+  "y": 97.53,
+  "z": -20.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -163.31,
+  "y": 96.4,
+  "z": 164.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 172.19,
+  "y": 101.39,
+  "z": -34.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -105.69,
+  "y": 96.1,
+  "z": 197.81,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -72.53,
+  "y": 97.09,
+  "z": -160.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": 116.55,
+  "y": 100.31,
+  "z": -144.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 78.43,
+  "y": 100.01,
+  "z": -144.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 46.14,
+  "y": 99.07,
+  "z": 162.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 133.99,
+  "y": 101.5,
+  "z": 19.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -30.7,
+  "y": 98.22,
+  "z": 110.47,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": -180.9,
+  "y": 97.59,
+  "z": -32.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -174.88,
+  "y": 96.68,
+  "z": 134.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -193.43,
+  "y": 97.55,
+  "z": 6.15,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -83.49,
+  "y": 96.34,
+  "z": -199.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": -33.37,
+  "y": 98.5,
+  "z": 65.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -172.93,
+  "y": 97.52,
+  "z": 10.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 21.66,
+  "y": 99.82,
+  "z": -43.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -45.25,
+  "y": 98.57,
+  "z": -50.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 115.41,
+  "y": 101.2,
+  "z": -62.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -158.53,
+  "y": 97.52,
+  "z": 32.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": -182.27,
+  "y": 97.64,
+  "z": 18.41,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": 132.15,
+  "y": 101.31,
+  "z": 73.87,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 52.69,
+  "y": 99.64,
+  "z": 124.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 177.44,
+  "y": 99.91,
+  "z": -185.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -120.21,
+  "y": 96.33,
+  "z": -183.24,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -40.71,
+  "y": 97.94,
+  "z": 126.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 101.32,
+  "y": 100.43,
+  "z": -123.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -180.88,
+  "y": 97.29,
+  "z": 62.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -25.22,
+  "y": 98.9,
+  "z": -39.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -64.39,
+  "y": 97.61,
+  "z": -125.27,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 169.72,
+  "y": 101.57,
+  "z": 7.71,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": -30.2,
+  "y": 99.01,
+  "z": -27.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": 18.19,
+  "y": 99.48,
+  "z": -71.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -81.74,
+  "y": 98.08,
+  "z": -21.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 75.91,
+  "y": 100.56,
+  "z": -59.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 45.94,
+  "y": 100.39,
+  "z": -26.02,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 179.16,
+  "y": 100.22,
+  "z": -169.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 5.23,
+  "y": 99.01,
+  "z": 99.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -142.89,
+  "y": 97.51,
+  "z": 43.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -149.51,
+  "y": 97.0,
+  "z": -105.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -46.86,
+  "y": 98.59,
+  "z": 26.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": -20.03,
+  "y": 98.95,
+  "z": -51.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 29.57,
+  "y": 100.04,
+  "z": 11.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": -88.52,
+  "y": 96.36,
+  "z": 184.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": -0.38,
+  "y": 99.41,
+  "z": -45.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 109.99,
+  "y": 100.86,
+  "z": 81.62,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -85.77,
+  "y": 96.76,
+  "z": 166.59,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": -145.71,
+  "y": 96.14,
+  "z": -170.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -21.96,
+  "y": 97.91,
+  "z": -164.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 67.14,
+  "y": 100.41,
+  "z": 83.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 156.53,
+  "y": 100.65,
+  "z": 140.54,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": 55.08,
+  "y": 99.89,
+  "z": 117.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": 194.05,
+  "y": 100.63,
+  "z": 116.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -189.49,
+  "y": 97.54,
+  "z": 21.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -148.09,
+  "y": 96.31,
+  "z": 153.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 199.84,
+  "y": 100.95,
+  "z": 87.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -36.23,
+  "y": 98.63,
+  "z": 29.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 56.94,
+  "y": 100.61,
+  "z": -20.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": -148.67,
+  "y": 96.71,
+  "z": 131.62,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -127.21,
+  "y": 96.09,
+  "z": 186.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 132.56,
+  "y": 101.38,
+  "z": 7.24,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": -70.94,
+  "y": 97.8,
+  "z": 83.73,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": 157.97,
+  "y": 100.53,
+  "z": 138.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": 182.54,
+  "y": 101.07,
+  "z": -90.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 13.39,
+  "y": 99.67,
+  "z": 1.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -138.32,
+  "y": 97.4,
+  "z": 63.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -64.95,
+  "y": 96.89,
+  "z": 169.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -167.51,
+  "y": 96.21,
+  "z": 179.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 60.45,
+  "y": 100.06,
+  "z": 106.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -187.89,
+  "y": 96.51,
+  "z": 155.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 182.66,
+  "y": 101.52,
+  "z": -6.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": -37.56,
+  "y": 98.8,
+  "z": -18.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": -24.16,
+  "y": 98.93,
+  "z": -6.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": -142.53,
+  "y": 96.5,
+  "z": 144.59,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": 190.15,
+  "y": 100.35,
+  "z": -147.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -157.53,
+  "y": 96.86,
+  "z": -103.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": -100.83,
+  "y": 96.58,
+  "z": -161.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": 145.67,
+  "y": 101.57,
+  "z": -32.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 125.39,
+  "y": 100.15,
+  "z": 173.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": 105.25,
+  "y": 101.24,
+  "z": -0.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": 151.63,
+  "y": 101.37,
+  "z": -1.05,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 2.18,
+  "y": 97.98,
+  "z": 186.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": -180.54,
+  "y": 97.2,
+  "z": -87.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 69.01,
+  "y": 100.26,
+  "z": -85.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": -27.63,
+  "y": 97.96,
+  "z": 152.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -38.7,
+  "y": 97.19,
+  "z": -181.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -122.14,
+  "y": 97.47,
+  "z": 21.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -19.86,
+  "y": 99.18,
+  "z": 19.94,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 72.16,
+  "y": 99.91,
+  "z": -152.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": -50.72,
+  "y": 96.97,
+  "z": 194.72,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 101.99,
+  "y": 100.51,
+  "z": -120.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -183.9,
+  "y": 96.19,
+  "z": -184.43,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 7.73,
+  "y": 98.86,
+  "z": -140.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 38
+ },
+ {
+  "x": -68.81,
+  "y": 98.02,
+  "z": 45.23,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 95.73,
+  "y": 100.76,
+  "z": -80.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 12.94,
+  "y": 99.35,
+  "z": 83.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -52.66,
+  "y": 98.39,
+  "z": 69.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -76.93,
+  "y": 97.08,
+  "z": 159.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -189.34,
+  "y": 97.74,
+  "z": -10.16,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 188.82,
+  "y": 101.27,
+  "z": 31.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 33.41,
+  "y": 99.38,
+  "z": -131.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 109.84,
+  "y": 101.26,
+  "z": -47.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -187.37,
+  "y": 96.09,
+  "z": 179.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": -23.58,
+  "y": 98.95,
+  "z": -32.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": -35.85,
+  "y": 98.34,
+  "z": 109.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": 90.96,
+  "y": 100.74,
+  "z": 82.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -69.98,
+  "y": 98.01,
+  "z": 64.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 182.67,
+  "y": 101.43,
+  "z": -16.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -58.29,
+  "y": 97.89,
+  "z": 108.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 121.46,
+  "y": 100.93,
+  "z": -94.26,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -88.4,
+  "y": 97.76,
+  "z": -80.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": 108.47,
+  "y": 100.99,
+  "z": 81.96,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -73.18,
+  "y": 98.11,
+  "z": -60.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 88.67,
+  "y": 100.71,
+  "z": -84.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -48.12,
+  "y": 97.13,
+  "z": 192.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 121.85,
+  "y": 100.96,
+  "z": -83.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -168.39,
+  "y": 96.29,
+  "z": 169.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -8.37,
+  "y": 98.66,
+  "z": -119.17,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 78.47,
+  "y": 99.98,
+  "z": -145.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -104.29,
+  "y": 96.5,
+  "z": -179.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": 55.18,
+  "y": 99.14,
+  "z": -179.0,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -11.04,
+  "y": 98.91,
+  "z": 72.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 191.16,
+  "y": 100.56,
+  "z": -136.82,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -9.02,
+  "y": 98.77,
+  "z": -120.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -85.83,
+  "y": 96.72,
+  "z": -176.33,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 29.65,
+  "y": 100.14,
+  "z": 14.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 165.29,
+  "y": 100.81,
+  "z": -129.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": 173.57,
+  "y": 100.11,
+  "z": -185.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -1.85,
+  "y": 98.27,
+  "z": 174.64,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": 150.7,
+  "y": 99.92,
+  "z": -196.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 171.38,
+  "y": 101.24,
+  "z": -65.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 17.32,
+  "y": 99.98,
+  "z": -2.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -12.79,
+  "y": 98.41,
+  "z": -122.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 92.45,
+  "y": 100.98,
+  "z": 59.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": 94.65,
+  "y": 100.49,
+  "z": 116.31,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": -122.74,
+  "y": 97.56,
+  "z": 44.38,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 130.8,
+  "y": 101.31,
+  "z": 6.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -161.85,
+  "y": 95.94,
+  "z": 192.67,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -197.27,
+  "y": 97.53,
+  "z": -46.57,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": 181.61,
+  "y": 101.19,
+  "z": -79.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -95.38,
+  "y": 97.63,
+  "z": -56.18,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -152.71,
+  "y": 97.17,
+  "z": -77.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 169.24,
+  "y": 100.48,
+  "z": 155.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": -153.03,
+  "y": 96.21,
+  "z": 166.45,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": -111.66,
+  "y": 96.27,
+  "z": 182.94,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": 99.09,
+  "y": 101.06,
+  "z": 42.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 165.12,
+  "y": 101.07,
+  "z": 102.94,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 104.74,
+  "y": 101.0,
+  "z": 72.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -167.25,
+  "y": 97.55,
+  "z": -21.3,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 166.9,
+  "y": 100.5,
+  "z": -155.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": -119.14,
+  "y": 97.53,
+  "z": 14.66,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -23.26,
+  "y": 98.84,
+  "z": 72.12,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": -163.62,
+  "y": 97.6,
+  "z": 4.15,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 59
+ },
+ {
+  "x": -147.22,
+  "y": 97.47,
+  "z": -33.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -15.05,
+  "y": 98.55,
+  "z": 122.77,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": -98.22,
+  "y": 96.12,
+  "z": -198.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": -181.88,
+  "y": 97.23,
+  "z": -62.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": 173.83,
+  "y": 100.3,
+  "z": -172.39,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": -85.16,
+  "y": 97.11,
+  "z": -128.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 191.33,
+  "y": 101.19,
+  "z": 58.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -20.59,
+  "y": 97.82,
+  "z": 166.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 73.09,
+  "y": 100.63,
+  "z": 64.72,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 144.11,
+  "y": 100.57,
+  "z": -152.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 11.54,
+  "y": 99.23,
+  "z": 91.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": 102.47,
+  "y": 99.66,
+  "z": 191.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 17.78,
+  "y": 99.94,
+  "z": 12.77,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -15.75,
+  "y": 98.21,
+  "z": -137.95,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 106.2,
+  "y": 99.81,
+  "z": -187.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 106.42,
+  "y": 100.03,
+  "z": 153.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": -173.08,
+  "y": 97.44,
+  "z": 37.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 81.31,
+  "y": 99.62,
+  "z": -180.53,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": -24.41,
+  "y": 99.08,
+  "z": 15.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -177.42,
+  "y": 97.48,
+  "z": 1.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 30.44,
+  "y": 100.13,
+  "z": 30.99,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -105.24,
+  "y": 96.88,
+  "z": 150.5,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 63
+ },
+ {
+  "x": -111.58,
+  "y": 97.25,
+  "z": -79.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": 151.89,
+  "y": 100.33,
+  "z": 164.63,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 22.34,
+  "y": 98.49,
+  "z": -181.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 68.54,
+  "y": 100.08,
+  "z": 114.32,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -36.7,
+  "y": 98.37,
+  "z": -80.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -10.59,
+  "y": 98.32,
+  "z": 139.74,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 75
+ },
+ {
+  "x": -142.26,
+  "y": 97.38,
+  "z": -14.79,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 187.11,
+  "y": 101.27,
+  "z": 22.91,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 45
+ },
+ {
+  "x": -98.0,
+  "y": 97.48,
+  "z": -67.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 138.85,
+  "y": 100.35,
+  "z": -163.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": -179.39,
+  "y": 97.46,
+  "z": -49.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 32
+ },
+ {
+  "x": 149.45,
+  "y": 100.83,
+  "z": -124.73,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 68.58,
+  "y": 100.06,
+  "z": -113.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -78.72,
+  "y": 96.81,
+  "z": 163.6,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": 184.83,
+  "y": 100.51,
+  "z": -153.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": 165.78,
+  "y": 101.25,
+  "z": 78.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 166.05,
+  "y": 101.55,
+  "z": 20.83,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -13.5,
+  "y": 98.99,
+  "z": 59.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": 5.13,
+  "y": 99.48,
+  "z": -1.09,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": -12.2,
+  "y": 98.52,
+  "z": 135.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -74.83,
+  "y": 96.83,
+  "z": -181.71,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -141.63,
+  "y": 97.2,
+  "z": -95.69,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": 88.0,
+  "y": 100.61,
+  "z": -81.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -48.06,
+  "y": 97.74,
+  "z": 133.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 177.39,
+  "y": 101.32,
+  "z": -64.97,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": 186.6,
+  "y": 101.25,
+  "z": 56.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 93.11,
+  "y": 100.82,
+  "z": -59.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -4.67,
+  "y": 98.19,
+  "z": 166.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 182.89,
+  "y": 101.53,
+  "z": 9.58,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 178.08,
+  "y": 101.31,
+  "z": 67.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": -145.0,
+  "y": 97.24,
+  "z": 52.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": -196.34,
+  "y": 97.61,
+  "z": 2.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 69
+ },
+ {
+  "x": 55.09,
+  "y": 99.36,
+  "z": 173.56,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -4.86,
+  "y": 97.81,
+  "z": -197.36,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -193.31,
+  "y": 97.25,
+  "z": 88.88,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 48
+ },
+ {
+  "x": -193.14,
+  "y": 96.94,
+  "z": 125.26,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": -157.19,
+  "y": 96.23,
+  "z": -161.47,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 42
+ },
+ {
+  "x": 47.91,
+  "y": 99.9,
+  "z": -99.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -41.24,
+  "y": 98.54,
+  "z": -50.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": -102.72,
+  "y": 97.42,
+  "z": 78.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 61.49,
+  "y": 99.78,
+  "z": 143.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -37.89,
+  "y": 98.63,
+  "z": -49.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -196.22,
+  "y": 96.84,
+  "z": -131.45,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": 57.96,
+  "y": 100.51,
+  "z": -67.49,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": 157.92,
+  "y": 100.18,
+  "z": 167.66,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": 155.02,
+  "y": 101.36,
+  "z": -9.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": 73.77,
+  "y": 100.47,
+  "z": -87.85,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 72
+ },
+ {
+  "x": -186.84,
+  "y": 96.24,
+  "z": 171.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 43
+ },
+ {
+  "x": 34.81,
+  "y": 99.75,
+  "z": 100.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 55
+ },
+ {
+  "x": 171.55,
+  "y": 101.17,
+  "z": -80.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 133.86,
+  "y": 101.46,
+  "z": -44.34,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -46.46,
+  "y": 98.24,
+  "z": 95.9,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": 89.67,
+  "y": 101.2,
+  "z": 0.32,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 33
+ },
+ {
+  "x": -160.93,
+  "y": 96.82,
+  "z": -107.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": 107.6,
+  "y": 99.81,
+  "z": 181.94,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": -69.45,
+  "y": 98.16,
+  "z": 53.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": -3.76,
+  "y": 99.39,
+  "z": -57.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -125.7,
+  "y": 97.5,
+  "z": 34.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 79
+ },
+ {
+  "x": 47.45,
+  "y": 99.8,
+  "z": 119.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -92.81,
+  "y": 97.87,
+  "z": -48.0,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 39
+ },
+ {
+  "x": 95.86,
+  "y": 100.75,
+  "z": -73.33,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": 177.18,
+  "y": 101.51,
+  "z": -22.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 36
+ },
+ {
+  "x": -147.0,
+  "y": 96.75,
+  "z": -125.04,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 4.98,
+  "y": 98.35,
+  "z": -158.68,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -162.77,
+  "y": 97.37,
+  "z": 39.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 54
+ },
+ {
+  "x": -195.06,
+  "y": 97.66,
+  "z": -34.48,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 76
+ },
+ {
+  "x": 160.45,
+  "y": 100.47,
+  "z": 162.08,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 8.44,
+  "y": 99.29,
+  "z": 74.13,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": -79.55,
+  "y": 97.94,
+  "z": -2.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -89.62,
+  "y": 97.7,
+  "z": -80.1,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 53
+ },
+ {
+  "x": -99.32,
+  "y": 97.36,
+  "z": -101.36,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 68
+ },
+ {
+  "x": 46.67,
+  "y": 100.28,
+  "z": -16.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": 179.53,
+  "y": 101.26,
+  "z": -67.11,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -23.91,
+  "y": 99.08,
+  "z": -27.75,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 71
+ },
+ {
+  "x": 189.69,
+  "y": 100.37,
+  "z": -145.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": -119.66,
+  "y": 97.5,
+  "z": -74.33,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": -83.42,
+  "y": 97.71,
+  "z": 77.98,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": 112.79,
+  "y": 101.0,
+  "z": -69.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -42.83,
+  "y": 97.61,
+  "z": -154.44,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": 198.91,
+  "y": 100.63,
+  "z": -128.03,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": 181.2,
+  "y": 101.49,
+  "z": -15.35,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 58
+ },
+ {
+  "x": 119.07,
+  "y": 100.4,
+  "z": 132.51,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": 118.02,
+  "y": 101.0,
+  "z": 69.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 49
+ },
+ {
+  "x": -103.19,
+  "y": 97.64,
+  "z": 63.47,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -49.2,
+  "y": 98.56,
+  "z": -20.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": -39.68,
+  "y": 98.85,
+  "z": 2.65,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": -32.68,
+  "y": 97.54,
+  "z": -185.29,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 74
+ },
+ {
+  "x": 158.2,
+  "y": 101.53,
+  "z": 14.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": -156.25,
+  "y": 97.05,
+  "z": -100.71,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 40
+ },
+ {
+  "x": 58.8,
+  "y": 99.33,
+  "z": -182.28,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 58.7,
+  "y": 99.08,
+  "z": 186.72,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 80
+ },
+ {
+  "x": -27.82,
+  "y": 97.29,
+  "z": -195.78,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 62
+ },
+ {
+  "x": 98.74,
+  "y": 101.2,
+  "z": 23.2,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 44
+ },
+ {
+  "x": -21.69,
+  "y": 99.05,
+  "z": -43.55,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 67
+ },
+ {
+  "x": 76.17,
+  "y": 100.12,
+  "z": -139.7,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -158.18,
+  "y": 97.58,
+  "z": -33.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": 132.53,
+  "y": 100.97,
+  "z": 92.06,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": -17.87,
+  "y": 98.48,
+  "z": -117.25,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 60
+ },
+ {
+  "x": -160.95,
+  "y": 97.09,
+  "z": 88.8,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 34
+ },
+ {
+  "x": -79.89,
+  "y": 97.22,
+  "z": 124.07,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 51
+ },
+ {
+  "x": 59.19,
+  "y": 100.26,
+  "z": 70.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 77
+ },
+ {
+  "x": -102.43,
+  "y": 96.89,
+  "z": -130.22,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": -29.45,
+  "y": 99.0,
+  "z": -15.18,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 70
+ },
+ {
+  "x": -126.22,
+  "y": 97.41,
+  "z": 56.19,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 31
+ },
+ {
+  "x": 94.96,
+  "y": 100.05,
+  "z": 153.24,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 57
+ },
+ {
+  "x": -44.47,
+  "y": 98.22,
+  "z": 81.89,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 78
+ },
+ {
+  "x": 81.5,
+  "y": 100.31,
+  "z": 118.4,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 64
+ },
+ {
+  "x": -125.22,
+  "y": 97.34,
+  "z": -69.61,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 46
+ },
+ {
+  "x": 68.28,
+  "y": 100.9,
+  "z": -4.21,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 38.79,
+  "y": 100.18,
+  "z": 44.52,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 52
+ },
+ {
+  "x": -59.21,
+  "y": 98.27,
+  "z": -16.86,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 73
+ },
+ {
+  "x": 82.4,
+  "y": 100.67,
+  "z": -81.02,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 35
+ },
+ {
+  "x": 68.84,
+  "y": 100.41,
+  "z": -74.73,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 37
+ },
+ {
+  "x": -126.78,
+  "y": 97.29,
+  "z": 77.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 38.57,
+  "y": 100.18,
+  "z": 29.92,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 61
+ },
+ {
+  "x": 54.2,
+  "y": 100.27,
+  "z": 77.37,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 41
+ },
+ {
+  "x": 21.97,
+  "y": 99.83,
+  "z": -4.14,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 50
+ },
+ {
+  "x": 136.79,
+  "y": 101.45,
+  "z": 47.76,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 30
+ },
+ {
+  "x": -6.16,
+  "y": 98.63,
+  "z": -121.95,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 65
+ },
+ {
+  "x": 2.18,
+  "y": 99.6,
+  "z": -2.01,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 56
+ },
+ {
+  "x": 84.06,
+  "y": 100.86,
+  "z": -22.46,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 66
+ },
+ {
+  "x": -187.66,
+  "y": 97.0,
+  "z": 104.42,
+  "classification": "ground",
+  "class_code": 2,
+  "intensity": 47
+ },
+ {
+  "x": 52.26,
+  "y": 118.42,
+  "z": -63.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 192
+ },
+ {
+  "x": 55.09,
+  "y": 118.37,
+  "z": -84.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": 52.03,
+  "y": 118.37,
+  "z": -55.4,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": 53.96,
+  "y": 118.41,
+  "z": -79.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": 65.51,
+  "y": 118.28,
+  "z": -68.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 226
+ },
+ {
+  "x": 53.68,
+  "y": 118.43,
+  "z": -53.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": 47.68,
+  "y": 118.42,
+  "z": -59.89,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": 67.62,
+  "y": 118.42,
+  "z": -55.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 146
+ },
+ {
+  "x": 38.19,
+  "y": 118.33,
+  "z": -77.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 210
+ },
+ {
+  "x": 41.31,
+  "y": 118.38,
+  "z": -62.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 220
+ },
+ {
+  "x": 54.68,
+  "y": 118.27,
+  "z": -63.58,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": 43.8,
+  "y": 118.29,
+  "z": -74.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 210
+ },
+ {
+  "x": 47.65,
+  "y": 118.45,
+  "z": -70.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 185
+ },
+ {
+  "x": 44.09,
+  "y": 118.28,
+  "z": -87.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 216
+ },
+ {
+  "x": 68.62,
+  "y": 118.46,
+  "z": -76.47,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 230
+ },
+ {
+  "x": 49.1,
+  "y": 118.29,
+  "z": -81.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": 60.9,
+  "y": 118.41,
+  "z": -81.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 206
+ },
+ {
+  "x": 58.9,
+  "y": 118.39,
+  "z": -61.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 200
+ },
+ {
+  "x": 44.71,
+  "y": 118.39,
+  "z": -65.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 232
+ },
+ {
+  "x": 39.52,
+  "y": 118.41,
+  "z": -58.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 208
+ },
+ {
+  "x": 39.37,
+  "y": 118.45,
+  "z": -52.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 161
+ },
+ {
+  "x": 62.2,
+  "y": 118.43,
+  "z": -77.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": 37.84,
+  "y": 118.39,
+  "z": -63.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 165
+ },
+ {
+  "x": 58.78,
+  "y": 118.34,
+  "z": -86.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 174
+ },
+ {
+  "x": 35.22,
+  "y": 118.32,
+  "z": -67.38,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": 46.86,
+  "y": 118.37,
+  "z": -71.5,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 182
+ },
+ {
+  "x": 67.17,
+  "y": 118.41,
+  "z": -78.74,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": 53.92,
+  "y": 118.35,
+  "z": -70.14,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": 64.69,
+  "y": 118.35,
+  "z": -50.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 174
+ },
+ {
+  "x": 51.77,
+  "y": 118.29,
+  "z": -72.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 203
+ },
+ {
+  "x": 58.16,
+  "y": 118.44,
+  "z": -72.72,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": 53.42,
+  "y": 118.33,
+  "z": -53.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 235
+ },
+ {
+  "x": 67.05,
+  "y": 118.39,
+  "z": -63.4,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": 54.99,
+  "y": 118.39,
+  "z": -52.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 210
+ },
+ {
+  "x": 53.93,
+  "y": 118.28,
+  "z": -65.94,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 195
+ },
+ {
+  "x": 51.32,
+  "y": 118.26,
+  "z": -72.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 209
+ },
+ {
+  "x": 58.97,
+  "y": 118.43,
+  "z": -62.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 208
+ },
+ {
+  "x": 56.09,
+  "y": 118.34,
+  "z": -66.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 213
+ },
+ {
+  "x": 67.66,
+  "y": 118.33,
+  "z": -57.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": 53.9,
+  "y": 118.41,
+  "z": -70.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 137
+ },
+ {
+  "x": 47.18,
+  "y": 118.27,
+  "z": -80.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 192
+ },
+ {
+  "x": 53.34,
+  "y": 118.35,
+  "z": -68.14,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": 53.4,
+  "y": 118.44,
+  "z": -72.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 198
+ },
+ {
+  "x": 63.13,
+  "y": 118.28,
+  "z": -79.69,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": 55.67,
+  "y": 118.41,
+  "z": -65.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": 45.05,
+  "y": 118.29,
+  "z": -48.41,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": 53.62,
+  "y": 118.38,
+  "z": -53.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": 55.89,
+  "y": 118.4,
+  "z": -81.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 228
+ },
+ {
+  "x": 66.12,
+  "y": 116.12,
+  "z": -86.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 116
+ },
+ {
+  "x": 31.48,
+  "y": 109.53,
+  "z": -70.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": 47.21,
+  "y": 101.34,
+  "z": -46.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": 31.35,
+  "y": 102.39,
+  "z": -67.27,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": 39.15,
+  "y": 101.64,
+  "z": -84.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": 75.49,
+  "y": 117.17,
+  "z": -69.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 106
+ },
+ {
+  "x": 36.7,
+  "y": 115.46,
+  "z": -53.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 143
+ },
+ {
+  "x": 38.79,
+  "y": 112.65,
+  "z": -51.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 150
+ },
+ {
+  "x": 74.67,
+  "y": 114.23,
+  "z": -74.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 92
+ },
+ {
+  "x": 34.59,
+  "y": 100.61,
+  "z": -79.52,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 117
+ },
+ {
+  "x": 74.88,
+  "y": 101.45,
+  "z": -62.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": 31.36,
+  "y": 111.67,
+  "z": -68.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": 55.83,
+  "y": 107.98,
+  "z": -89.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": 72.67,
+  "y": 110.02,
+  "z": -57.04,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 109
+ },
+ {
+  "x": 49.66,
+  "y": 105.94,
+  "z": -46.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": 72.9,
+  "y": 117.9,
+  "z": -78.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 109
+ },
+ {
+  "x": 31.91,
+  "y": 107.39,
+  "z": -73.0,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 98
+ },
+ {
+  "x": 45.29,
+  "y": 108.23,
+  "z": -47.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": 74.12,
+  "y": 101.91,
+  "z": -60.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": 69.95,
+  "y": 111.38,
+  "z": -53.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 97
+ },
+ {
+  "x": 45.4,
+  "y": 113.71,
+  "z": -47.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 112
+ },
+ {
+  "x": 69.63,
+  "y": 113.1,
+  "z": -52.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": 64.85,
+  "y": 117.51,
+  "z": -49.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": 31.47,
+  "y": 115.17,
+  "z": -70.37,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 123
+ },
+ {
+  "x": 64.48,
+  "y": 102.64,
+  "z": -48.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": 51.09,
+  "y": 102.49,
+  "z": -89.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 93
+ },
+ {
+  "x": -167.31,
+  "y": 113.66,
+  "z": 213.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -174.24,
+  "y": 113.58,
+  "z": 203.46,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 178
+ },
+ {
+  "x": -150.82,
+  "y": 113.73,
+  "z": 214.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -161.19,
+  "y": 113.58,
+  "z": 218.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -150.3,
+  "y": 113.71,
+  "z": 219.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -160.33,
+  "y": 113.61,
+  "z": 209.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 180
+ },
+ {
+  "x": -154.21,
+  "y": 113.6,
+  "z": 206.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 229
+ },
+ {
+  "x": -160.69,
+  "y": 113.7,
+  "z": 209.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 203
+ },
+ {
+  "x": -164.79,
+  "y": 113.64,
+  "z": 218.36,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": -157.84,
+  "y": 113.67,
+  "z": 204.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -152.31,
+  "y": 113.6,
+  "z": 204.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 222
+ },
+ {
+  "x": -150.52,
+  "y": 113.64,
+  "z": 213.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 232
+ },
+ {
+  "x": -162.91,
+  "y": 113.73,
+  "z": 220.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 161
+ },
+ {
+  "x": -162.69,
+  "y": 113.63,
+  "z": 210.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -164.89,
+  "y": 113.68,
+  "z": 221.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 179
+ },
+ {
+  "x": -153.3,
+  "y": 113.76,
+  "z": 209.05,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -157.6,
+  "y": 113.71,
+  "z": 208.0,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 151
+ },
+ {
+  "x": -158.05,
+  "y": 113.56,
+  "z": 209.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 189
+ },
+ {
+  "x": -157.04,
+  "y": 113.74,
+  "z": 204.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 162
+ },
+ {
+  "x": -160.96,
+  "y": 113.73,
+  "z": 210.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 213
+ },
+ {
+  "x": -159.14,
+  "y": 113.76,
+  "z": 216.64,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 173
+ },
+ {
+  "x": -151.3,
+  "y": 113.76,
+  "z": 214.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 211
+ },
+ {
+  "x": -155.27,
+  "y": 113.61,
+  "z": 212.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 228
+ },
+ {
+  "x": -164.27,
+  "y": 113.63,
+  "z": 199.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 215
+ },
+ {
+  "x": -159.46,
+  "y": 113.59,
+  "z": 211.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 224
+ },
+ {
+  "x": -167.9,
+  "y": 113.57,
+  "z": 205.88,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -159.25,
+  "y": 113.61,
+  "z": 230.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 160
+ },
+ {
+  "x": -176.2,
+  "y": 113.73,
+  "z": 222.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 161
+ },
+ {
+  "x": -161.86,
+  "y": 113.57,
+  "z": 217.05,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -160.58,
+  "y": 113.58,
+  "z": 207.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 133
+ },
+ {
+  "x": -164.32,
+  "y": 113.64,
+  "z": 211.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 188
+ },
+ {
+  "x": -159.98,
+  "y": 113.65,
+  "z": 202.93,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 179
+ },
+ {
+  "x": -156.87,
+  "y": 113.59,
+  "z": 214.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 207
+ },
+ {
+  "x": -162.74,
+  "y": 113.68,
+  "z": 204.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 147
+ },
+ {
+  "x": -169.21,
+  "y": 113.58,
+  "z": 225.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 151
+ },
+ {
+  "x": -177.16,
+  "y": 113.57,
+  "z": 222.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -155.47,
+  "y": 113.57,
+  "z": 210.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 171
+ },
+ {
+  "x": -177.84,
+  "y": 113.67,
+  "z": 204.21,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -157.71,
+  "y": 113.59,
+  "z": 201.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -160.69,
+  "y": 113.6,
+  "z": 209.14,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -173.0,
+  "y": 113.69,
+  "z": 222.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 202
+ },
+ {
+  "x": -162.46,
+  "y": 113.74,
+  "z": 209.5,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": -160.52,
+  "y": 113.74,
+  "z": 210.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": -146.66,
+  "y": 113.73,
+  "z": 219.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 223
+ },
+ {
+  "x": -154.2,
+  "y": 113.65,
+  "z": 212.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -178.72,
+  "y": 113.7,
+  "z": 218.35,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 183
+ },
+ {
+  "x": -161.19,
+  "y": 113.59,
+  "z": 209.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 147
+ },
+ {
+  "x": -163.93,
+  "y": 113.65,
+  "z": 229.31,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -140.37,
+  "y": 107.95,
+  "z": 214.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -173.61,
+  "y": 106.14,
+  "z": 193.58,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 160
+ },
+ {
+  "x": -181.83,
+  "y": 99.98,
+  "z": 213.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -147.23,
+  "y": 101.65,
+  "z": 226.41,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -160.83,
+  "y": 113.57,
+  "z": 231.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 159
+ },
+ {
+  "x": -155.08,
+  "y": 113.5,
+  "z": 190.17,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -181.84,
+  "y": 110.38,
+  "z": 213.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": -142.96,
+  "y": 106.2,
+  "z": 199.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -163.64,
+  "y": 99.05,
+  "z": 231.31,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 118
+ },
+ {
+  "x": -140.23,
+  "y": 110.82,
+  "z": 214.27,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -141.28,
+  "y": 113.53,
+  "z": 218.0,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -174.11,
+  "y": 107.42,
+  "z": 226.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 119
+ },
+ {
+  "x": -140.15,
+  "y": 100.16,
+  "z": 206.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -163.12,
+  "y": 110.9,
+  "z": 231.37,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 97
+ },
+ {
+  "x": -159.08,
+  "y": 112.88,
+  "z": 189.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -173.83,
+  "y": 111.25,
+  "z": 227.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 112
+ },
+ {
+  "x": -151.5,
+  "y": 107.55,
+  "z": 229.25,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -142.87,
+  "y": 99.08,
+  "z": 199.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -141.0,
+  "y": 107.11,
+  "z": 203.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 114
+ },
+ {
+  "x": -150.02,
+  "y": 110.82,
+  "z": 192.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -181.27,
+  "y": 101.29,
+  "z": 204.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 94
+ },
+ {
+  "x": -143.17,
+  "y": 102.15,
+  "z": 221.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 118
+ },
+ {
+  "x": -140.04,
+  "y": 105.83,
+  "z": 213.04,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -142.61,
+  "y": 101.68,
+  "z": 200.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 106
+ },
+ {
+  "x": -172.31,
+  "y": 101.32,
+  "z": 228.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": -141.33,
+  "y": 100.88,
+  "z": 218.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 108
+ },
+ {
+  "x": 4.3,
+  "y": 120.82,
+  "z": -144.06,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": 2.41,
+  "y": 120.73,
+  "z": -133.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -7.78,
+  "y": 120.85,
+  "z": -124.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 213
+ },
+ {
+  "x": 0.31,
+  "y": 120.84,
+  "z": -149.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 203
+ },
+ {
+  "x": -6.47,
+  "y": 120.76,
+  "z": -137.28,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 233
+ },
+ {
+  "x": -0.35,
+  "y": 120.69,
+  "z": -149.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 195
+ },
+ {
+  "x": -16.79,
+  "y": 120.8,
+  "z": -119.47,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -5.08,
+  "y": 120.84,
+  "z": -133.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": 3.28,
+  "y": 120.84,
+  "z": -131.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -6.29,
+  "y": 120.81,
+  "z": -127.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 198
+ },
+ {
+  "x": -8.89,
+  "y": 120.84,
+  "z": -132.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": 1.25,
+  "y": 120.72,
+  "z": -127.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 160
+ },
+ {
+  "x": -2.15,
+  "y": 120.67,
+  "z": -133.28,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 210
+ },
+ {
+  "x": -6.52,
+  "y": 120.72,
+  "z": -144.63,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -4.72,
+  "y": 120.66,
+  "z": -125.58,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 152
+ },
+ {
+  "x": -7.72,
+  "y": 120.66,
+  "z": -146.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": 9.99,
+  "y": 120.83,
+  "z": -133.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 183
+ },
+ {
+  "x": -15.47,
+  "y": 120.73,
+  "z": -116.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 226
+ },
+ {
+  "x": 1.72,
+  "y": 120.78,
+  "z": -138.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 207
+ },
+ {
+  "x": -9.15,
+  "y": 120.81,
+  "z": -129.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -7.27,
+  "y": 120.84,
+  "z": -125.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": 0.6,
+  "y": 120.68,
+  "z": -135.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": 4.25,
+  "y": 120.67,
+  "z": -137.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 196
+ },
+ {
+  "x": 11.08,
+  "y": 120.79,
+  "z": -143.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 175
+ },
+ {
+  "x": 5.09,
+  "y": 120.83,
+  "z": -114.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": -5.27,
+  "y": 120.84,
+  "z": -130.06,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -7.24,
+  "y": 120.8,
+  "z": -145.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -8.71,
+  "y": 120.67,
+  "z": -118.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 170
+ },
+ {
+  "x": 1.53,
+  "y": 120.68,
+  "z": -140.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": -4.67,
+  "y": 120.81,
+  "z": -130.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 200
+ },
+ {
+  "x": -0.91,
+  "y": 120.66,
+  "z": -119.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": 8.2,
+  "y": 120.74,
+  "z": -132.89,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": -9.79,
+  "y": 120.75,
+  "z": -127.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -8.15,
+  "y": 120.73,
+  "z": -135.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 167
+ },
+ {
+  "x": -17.11,
+  "y": 120.74,
+  "z": -117.74,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -5.5,
+  "y": 120.82,
+  "z": -122.04,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 192
+ },
+ {
+  "x": -4.72,
+  "y": 120.78,
+  "z": -132.28,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": 0.16,
+  "y": 120.73,
+  "z": -143.8,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 216
+ },
+ {
+  "x": -16.14,
+  "y": 120.82,
+  "z": -135.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 224
+ },
+ {
+  "x": 5.72,
+  "y": 120.79,
+  "z": -133.31,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 239
+ },
+ {
+  "x": 2.42,
+  "y": 120.75,
+  "z": -137.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": 0.18,
+  "y": 120.66,
+  "z": -137.44,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": 1.01,
+  "y": 120.79,
+  "z": -148.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 199
+ },
+ {
+  "x": -1.87,
+  "y": 120.74,
+  "z": -131.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": 2.42,
+  "y": 120.68,
+  "z": -149.61,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 174
+ },
+ {
+  "x": -5.39,
+  "y": 120.69,
+  "z": -132.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 225
+ },
+ {
+  "x": 1.74,
+  "y": 120.7,
+  "z": -142.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 236
+ },
+ {
+  "x": 0.51,
+  "y": 120.67,
+  "z": -144.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -21.11,
+  "y": 106.6,
+  "z": -118.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -25.07,
+  "y": 119.01,
+  "z": -133.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -0.07,
+  "y": 112.83,
+  "z": -150.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": -0.69,
+  "y": 102.11,
+  "z": -151.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 109
+ },
+ {
+  "x": 7.49,
+  "y": 112.1,
+  "z": -114.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 102
+ },
+ {
+  "x": 13.52,
+  "y": 111.57,
+  "z": -140.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 102
+ },
+ {
+  "x": -0.17,
+  "y": 117.97,
+  "z": -150.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": 10.01,
+  "y": 105.3,
+  "z": -145.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 152
+ },
+ {
+  "x": -23.17,
+  "y": 109.68,
+  "z": -139.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 112
+ },
+ {
+  "x": -8.0,
+  "y": 102.77,
+  "z": -110.78,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": 15.15,
+  "y": 118.43,
+  "z": -126.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -12.22,
+  "y": 100.79,
+  "z": -150.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 150
+ },
+ {
+  "x": 13.27,
+  "y": 118.59,
+  "z": -140.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 92
+ },
+ {
+  "x": -15.48,
+  "y": 116.42,
+  "z": -113.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": -8.62,
+  "y": 110.07,
+  "z": -110.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 102
+ },
+ {
+  "x": 15.45,
+  "y": 104.54,
+  "z": -134.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 128
+ },
+ {
+  "x": 15.48,
+  "y": 109.06,
+  "z": -134.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": -7.23,
+  "y": 108.5,
+  "z": -110.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 101
+ },
+ {
+  "x": 3.05,
+  "y": 104.19,
+  "z": -112.06,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -5.9,
+  "y": 115.7,
+  "z": -151.47,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 137
+ },
+ {
+  "x": 4.1,
+  "y": 110.57,
+  "z": -149.5,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 110
+ },
+ {
+  "x": 14.04,
+  "y": 114.65,
+  "z": -122.8,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": 8.75,
+  "y": 117.63,
+  "z": -115.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 93
+ },
+ {
+  "x": 4.71,
+  "y": 118.13,
+  "z": -112.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 115
+ },
+ {
+  "x": 5.91,
+  "y": 104.99,
+  "z": -148.52,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 148
+ },
+ {
+  "x": 14.73,
+  "y": 107.32,
+  "z": -124.61,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 115
+ },
+ {
+  "x": -221.78,
+  "y": 113.22,
+  "z": 61.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 201
+ },
+ {
+  "x": -232.06,
+  "y": 113.17,
+  "z": 50.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 182
+ },
+ {
+  "x": -218.97,
+  "y": 113.29,
+  "z": 77.72,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 195
+ },
+ {
+  "x": -230.46,
+  "y": 113.29,
+  "z": 76.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -229.91,
+  "y": 113.18,
+  "z": 52.92,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 169
+ },
+ {
+  "x": -223.64,
+  "y": 113.28,
+  "z": 66.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 147
+ },
+ {
+  "x": -234.65,
+  "y": 113.26,
+  "z": 53.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -237.36,
+  "y": 113.29,
+  "z": 65.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 218
+ },
+ {
+  "x": -237.84,
+  "y": 113.15,
+  "z": 69.17,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -212.12,
+  "y": 113.17,
+  "z": 67.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 223
+ },
+ {
+  "x": -228.66,
+  "y": 113.26,
+  "z": 48.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -230.35,
+  "y": 113.19,
+  "z": 72.94,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 152
+ },
+ {
+  "x": -225.66,
+  "y": 113.22,
+  "z": 71.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 199
+ },
+ {
+  "x": -217.83,
+  "y": 113.22,
+  "z": 71.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -213.85,
+  "y": 113.23,
+  "z": 50.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 196
+ },
+ {
+  "x": -227.93,
+  "y": 113.14,
+  "z": 78.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 128
+ },
+ {
+  "x": -225.37,
+  "y": 113.19,
+  "z": 73.64,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -225.52,
+  "y": 113.3,
+  "z": 61.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -228.03,
+  "y": 113.17,
+  "z": 66.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -218.99,
+  "y": 113.24,
+  "z": 51.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -220.13,
+  "y": 113.13,
+  "z": 71.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 183
+ },
+ {
+  "x": -225.44,
+  "y": 113.2,
+  "z": 87.05,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 169
+ },
+ {
+  "x": -237.14,
+  "y": 113.32,
+  "z": 59.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 224
+ },
+ {
+  "x": -224.81,
+  "y": 113.16,
+  "z": 63.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 188
+ },
+ {
+  "x": -236.99,
+  "y": 113.31,
+  "z": 68.9,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 165
+ },
+ {
+  "x": -218.46,
+  "y": 113.29,
+  "z": 58.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 232
+ },
+ {
+  "x": -227.31,
+  "y": 113.21,
+  "z": 77.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 214
+ },
+ {
+  "x": -222.37,
+  "y": 113.27,
+  "z": 62.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 143
+ },
+ {
+  "x": -208.8,
+  "y": 113.25,
+  "z": 55.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 148
+ },
+ {
+  "x": -224.51,
+  "y": 113.18,
+  "z": 59.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 220
+ },
+ {
+  "x": -236.64,
+  "y": 113.24,
+  "z": 79.87,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 179
+ },
+ {
+  "x": -241.14,
+  "y": 113.29,
+  "z": 70.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 194
+ },
+ {
+  "x": -232.76,
+  "y": 113.21,
+  "z": 58.88,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 144
+ },
+ {
+  "x": -217.44,
+  "y": 113.2,
+  "z": 59.47,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -218.5,
+  "y": 113.15,
+  "z": 60.89,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -217.35,
+  "y": 113.3,
+  "z": 66.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 178
+ },
+ {
+  "x": -222.37,
+  "y": 113.16,
+  "z": 64.74,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": -230.94,
+  "y": 113.16,
+  "z": 59.72,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 201
+ },
+ {
+  "x": -225.36,
+  "y": 113.16,
+  "z": 67.29,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -223.94,
+  "y": 113.22,
+  "z": 63.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 217
+ },
+ {
+  "x": -213.42,
+  "y": 113.21,
+  "z": 78.38,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 174
+ },
+ {
+  "x": -216.29,
+  "y": 113.2,
+  "z": 65.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -225.55,
+  "y": 113.31,
+  "z": 56.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -221.0,
+  "y": 113.16,
+  "z": 61.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 206
+ },
+ {
+  "x": -224.25,
+  "y": 113.17,
+  "z": 66.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 232
+ },
+ {
+  "x": -219.45,
+  "y": 113.2,
+  "z": 71.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 195
+ },
+ {
+  "x": -218.58,
+  "y": 113.13,
+  "z": 69.41,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -233.38,
+  "y": 113.22,
+  "z": 65.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 175
+ },
+ {
+  "x": -208.85,
+  "y": 113.15,
+  "z": 53.87,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 133
+ },
+ {
+  "x": -204.06,
+  "y": 105.57,
+  "z": 66.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 114
+ },
+ {
+  "x": -213.95,
+  "y": 111.82,
+  "z": 84.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -204.2,
+  "y": 101.58,
+  "z": 69.36,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 106
+ },
+ {
+  "x": -219.37,
+  "y": 98.55,
+  "z": 86.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -214.4,
+  "y": 103.72,
+  "z": 84.58,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 94
+ },
+ {
+  "x": -238.54,
+  "y": 107.82,
+  "z": 81.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -238.69,
+  "y": 107.13,
+  "z": 52.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 96
+ },
+ {
+  "x": -234.85,
+  "y": 108.02,
+  "z": 49.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 92
+ },
+ {
+  "x": -204.97,
+  "y": 99.96,
+  "z": 72.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 146
+ },
+ {
+  "x": -238.99,
+  "y": 106.43,
+  "z": 80.74,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 150
+ },
+ {
+  "x": -230.26,
+  "y": 101.3,
+  "z": 47.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -230.62,
+  "y": 108.14,
+  "z": 86.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": -226.77,
+  "y": 107.3,
+  "z": 86.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 107
+ },
+ {
+  "x": -241.87,
+  "y": 111.7,
+  "z": 76.8,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -228.18,
+  "y": 99.99,
+  "z": 47.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 104
+ },
+ {
+  "x": -219.87,
+  "y": 105.69,
+  "z": 47.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 115
+ },
+ {
+  "x": -220.72,
+  "y": 110.69,
+  "z": 47.06,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 115
+ },
+ {
+  "x": -236.91,
+  "y": 104.37,
+  "z": 82.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 110
+ },
+ {
+  "x": -204.67,
+  "y": 105.67,
+  "z": 71.89,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 116
+ },
+ {
+  "x": -231.89,
+  "y": 105.43,
+  "z": 48.25,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -204.05,
+  "y": 108.29,
+  "z": 67.29,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 104
+ },
+ {
+  "x": -213.94,
+  "y": 108.26,
+  "z": 49.57,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 109
+ },
+ {
+  "x": -205.06,
+  "y": 109.91,
+  "z": 60.63,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 99
+ },
+ {
+  "x": -227.58,
+  "y": 99.74,
+  "z": 47.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 122
+ },
+ {
+  "x": -236.69,
+  "y": 105.07,
+  "z": 51.04,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -55.94,
+  "y": 114.55,
+  "z": 206.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 231
+ },
+ {
+  "x": -60.32,
+  "y": 114.55,
+  "z": 206.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 160
+ },
+ {
+  "x": -54.82,
+  "y": 114.56,
+  "z": 210.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 233
+ },
+ {
+  "x": -59.69,
+  "y": 114.52,
+  "z": 204.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -55.8,
+  "y": 114.58,
+  "z": 202.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -47.85,
+  "y": 114.55,
+  "z": 213.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 143
+ },
+ {
+  "x": -61.7,
+  "y": 114.48,
+  "z": 206.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 226
+ },
+ {
+  "x": -56.32,
+  "y": 114.55,
+  "z": 200.25,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 203
+ },
+ {
+  "x": -52.72,
+  "y": 114.42,
+  "z": 218.36,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": -59.23,
+  "y": 114.42,
+  "z": 205.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 173
+ },
+ {
+  "x": -75.36,
+  "y": 114.5,
+  "z": 207.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": -62.37,
+  "y": 114.46,
+  "z": 207.56,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 123
+ },
+ {
+  "x": -49.6,
+  "y": 114.54,
+  "z": 195.55,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -58.23,
+  "y": 114.41,
+  "z": 204.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -53.33,
+  "y": 114.52,
+  "z": 208.34,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -65.33,
+  "y": 114.54,
+  "z": 194.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -58.18,
+  "y": 114.58,
+  "z": 217.46,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 231
+ },
+ {
+  "x": -65.78,
+  "y": 114.53,
+  "z": 204.65,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -61.22,
+  "y": 114.49,
+  "z": 198.28,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -68.67,
+  "y": 114.56,
+  "z": 212.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -71.52,
+  "y": 114.39,
+  "z": 195.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 239
+ },
+ {
+  "x": -58.62,
+  "y": 114.56,
+  "z": 203.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 231
+ },
+ {
+  "x": -60.13,
+  "y": 114.45,
+  "z": 202.69,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 162
+ },
+ {
+  "x": -44.67,
+  "y": 114.43,
+  "z": 210.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 202
+ },
+ {
+  "x": -57.55,
+  "y": 114.41,
+  "z": 199.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 176
+ },
+ {
+  "x": -72.9,
+  "y": 114.56,
+  "z": 209.78,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 177
+ },
+ {
+  "x": -54.89,
+  "y": 114.54,
+  "z": 204.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 122
+ },
+ {
+  "x": -61.62,
+  "y": 114.5,
+  "z": 206.37,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -56.55,
+  "y": 114.58,
+  "z": 192.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 201
+ },
+ {
+  "x": -65.26,
+  "y": 114.43,
+  "z": 205.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 205
+ },
+ {
+  "x": -64.29,
+  "y": 114.56,
+  "z": 211.92,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 224
+ },
+ {
+  "x": -63.75,
+  "y": 114.5,
+  "z": 206.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 199
+ },
+ {
+  "x": -62.25,
+  "y": 114.46,
+  "z": 195.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 177
+ },
+ {
+  "x": -60.04,
+  "y": 114.43,
+  "z": 203.56,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 163
+ },
+ {
+  "x": -64.14,
+  "y": 114.55,
+  "z": 201.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 190
+ },
+ {
+  "x": -62.75,
+  "y": 114.4,
+  "z": 197.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -56.55,
+  "y": 114.54,
+  "z": 198.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -61.53,
+  "y": 114.43,
+  "z": 204.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 239
+ },
+ {
+  "x": -57.08,
+  "y": 114.55,
+  "z": 219.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 144
+ },
+ {
+  "x": -50.77,
+  "y": 114.47,
+  "z": 213.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 238
+ },
+ {
+  "x": -65.15,
+  "y": 114.41,
+  "z": 196.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -64.27,
+  "y": 114.58,
+  "z": 199.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 137
+ },
+ {
+  "x": -43.97,
+  "y": 114.54,
+  "z": 205.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 190
+ },
+ {
+  "x": -51.84,
+  "y": 114.49,
+  "z": 192.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 185
+ },
+ {
+  "x": -49.07,
+  "y": 114.53,
+  "z": 198.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -51.67,
+  "y": 114.47,
+  "z": 214.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 196
+ },
+ {
+  "x": -64.59,
+  "y": 114.57,
+  "z": 214.63,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 173
+ },
+ {
+  "x": -45.95,
+  "y": 114.54,
+  "z": 197.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -73.61,
+  "y": 104.63,
+  "z": 215.52,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -76.21,
+  "y": 101.49,
+  "z": 210.37,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -73.58,
+  "y": 112.79,
+  "z": 195.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -65.23,
+  "y": 110.01,
+  "z": 221.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": -64.14,
+  "y": 113.52,
+  "z": 189.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 117
+ },
+ {
+  "x": -55.05,
+  "y": 108.85,
+  "z": 221.47,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -66.67,
+  "y": 113.31,
+  "z": 189.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 106
+ },
+ {
+  "x": -43.48,
+  "y": 109.24,
+  "z": 203.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 112
+ },
+ {
+  "x": -76.94,
+  "y": 109.9,
+  "z": 205.06,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": -64.29,
+  "y": 110.9,
+  "z": 189.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 151
+ },
+ {
+  "x": -74.72,
+  "y": 113.63,
+  "z": 197.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 143
+ },
+ {
+  "x": -67.85,
+  "y": 112.9,
+  "z": 190.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -63.91,
+  "y": 112.2,
+  "z": 221.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -76.78,
+  "y": 99.87,
+  "z": 203.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 108
+ },
+ {
+  "x": -44.29,
+  "y": 100.34,
+  "z": 210.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -60.13,
+  "y": 101.9,
+  "z": 188.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 126
+ },
+ {
+  "x": -66.98,
+  "y": 101.69,
+  "z": 190.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 97
+ },
+ {
+  "x": -66.28,
+  "y": 103.92,
+  "z": 189.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 159
+ },
+ {
+  "x": -43.71,
+  "y": 111.7,
+  "z": 208.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 103
+ },
+ {
+  "x": -72.67,
+  "y": 109.62,
+  "z": 194.28,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 118
+ },
+ {
+  "x": -60.95,
+  "y": 107.91,
+  "z": 188.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -76.91,
+  "y": 111.44,
+  "z": 204.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 126
+ },
+ {
+  "x": -66.05,
+  "y": 100.19,
+  "z": 189.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": -72.93,
+  "y": 113.84,
+  "z": 216.37,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": -43.75,
+  "y": 100.3,
+  "z": 201.89,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 122
+ },
+ {
+  "x": -55.28,
+  "y": 112.52,
+  "z": 221.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 146
+ },
+ {
+  "x": -89.47,
+  "y": 117.14,
+  "z": -48.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 202
+ },
+ {
+  "x": -105.7,
+  "y": 117.15,
+  "z": -44.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -88.64,
+  "y": 117.06,
+  "z": -43.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -86.71,
+  "y": 117.19,
+  "z": -34.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 214
+ },
+ {
+  "x": -106.59,
+  "y": 117.09,
+  "z": -35.52,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -98.47,
+  "y": 117.17,
+  "z": -37.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -102.03,
+  "y": 117.03,
+  "z": -46.34,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -112.87,
+  "y": 117.15,
+  "z": -49.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 200
+ },
+ {
+  "x": -105.88,
+  "y": 117.1,
+  "z": -49.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -92.84,
+  "y": 117.14,
+  "z": -37.35,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 187
+ },
+ {
+  "x": -99.3,
+  "y": 117.01,
+  "z": -38.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 184
+ },
+ {
+  "x": -103.16,
+  "y": 117.08,
+  "z": -41.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": -99.91,
+  "y": 117.07,
+  "z": -37.8,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": -96.26,
+  "y": 117.12,
+  "z": -42.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 180
+ },
+ {
+  "x": -93.61,
+  "y": 117.2,
+  "z": -55.46,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -101.75,
+  "y": 117.05,
+  "z": -39.72,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 202
+ },
+ {
+  "x": -107.8,
+  "y": 117.19,
+  "z": -47.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 207
+ },
+ {
+  "x": -111.1,
+  "y": 117.16,
+  "z": -31.65,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": -106.67,
+  "y": 117.06,
+  "z": -42.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 236
+ },
+ {
+  "x": -99.65,
+  "y": 117.1,
+  "z": -49.41,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 185
+ },
+ {
+  "x": -93.87,
+  "y": 117.18,
+  "z": -39.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 144
+ },
+ {
+  "x": -96.27,
+  "y": 117.02,
+  "z": -38.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 218
+ },
+ {
+  "x": -92.14,
+  "y": 117.01,
+  "z": -40.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 205
+ },
+ {
+  "x": -98.41,
+  "y": 117.14,
+  "z": -31.46,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 226
+ },
+ {
+  "x": -102.32,
+  "y": 117.14,
+  "z": -41.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 214
+ },
+ {
+  "x": -108.2,
+  "y": 117.19,
+  "z": -51.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 215
+ },
+ {
+  "x": -89.89,
+  "y": 117.14,
+  "z": -39.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -99.4,
+  "y": 117.16,
+  "z": -40.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -100.22,
+  "y": 117.18,
+  "z": -42.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -104.94,
+  "y": 117.09,
+  "z": -45.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 122
+ },
+ {
+  "x": -96.14,
+  "y": 117.0,
+  "z": -37.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": -100.34,
+  "y": 117.12,
+  "z": -51.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 209
+ },
+ {
+  "x": -109.19,
+  "y": 117.1,
+  "z": -30.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -104.69,
+  "y": 117.02,
+  "z": -29.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 217
+ },
+ {
+  "x": -111.58,
+  "y": 117.16,
+  "z": -31.21,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 123
+ },
+ {
+  "x": -108.11,
+  "y": 117.03,
+  "z": -42.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 170
+ },
+ {
+  "x": -93.28,
+  "y": 117.06,
+  "z": -51.54,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 201
+ },
+ {
+  "x": -101.73,
+  "y": 117.18,
+  "z": -43.29,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 221
+ },
+ {
+  "x": -108.99,
+  "y": 117.19,
+  "z": -52.32,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -109.02,
+  "y": 117.02,
+  "z": -44.23,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -107.9,
+  "y": 117.11,
+  "z": -35.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 130
+ },
+ {
+  "x": -100.77,
+  "y": 117.18,
+  "z": -46.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": -97.91,
+  "y": 117.17,
+  "z": -43.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": -100.24,
+  "y": 117.17,
+  "z": -38.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 144
+ },
+ {
+  "x": -101.58,
+  "y": 117.11,
+  "z": -42.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 126
+ },
+ {
+  "x": -88.34,
+  "y": 117.2,
+  "z": -46.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 179
+ },
+ {
+  "x": -91.49,
+  "y": 117.13,
+  "z": -36.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 152
+ },
+ {
+  "x": -100.95,
+  "y": 117.1,
+  "z": -42.78,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 162
+ },
+ {
+  "x": -110.66,
+  "y": 111.18,
+  "z": -28.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -87.81,
+  "y": 110.25,
+  "z": -31.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 114
+ },
+ {
+  "x": -107.3,
+  "y": 107.21,
+  "z": -26.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": -106.26,
+  "y": 101.84,
+  "z": -56.19,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 136
+ },
+ {
+  "x": -95.05,
+  "y": 116.36,
+  "z": -56.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 111
+ },
+ {
+  "x": -84.77,
+  "y": 103.53,
+  "z": -40.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 118
+ },
+ {
+  "x": -104.47,
+  "y": 110.64,
+  "z": -56.74,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -92.15,
+  "y": 101.52,
+  "z": -54.7,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -89.23,
+  "y": 107.43,
+  "z": -52.31,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -98.24,
+  "y": 107.87,
+  "z": -56.99,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 103
+ },
+ {
+  "x": -93.54,
+  "y": 110.02,
+  "z": -26.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -90.64,
+  "y": 101.62,
+  "z": -53.61,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 158
+ },
+ {
+  "x": -95.44,
+  "y": 112.3,
+  "z": -26.17,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 99
+ },
+ {
+  "x": -102.97,
+  "y": 115.16,
+  "z": -57.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -111.52,
+  "y": 113.73,
+  "z": -52.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -98.79,
+  "y": 102.93,
+  "z": -57.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 94
+ },
+ {
+  "x": -115.84,
+  "y": 108.88,
+  "z": -46.31,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 159
+ },
+ {
+  "x": -116.42,
+  "y": 113.05,
+  "z": -38.45,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 136
+ },
+ {
+  "x": -113.16,
+  "y": 115.15,
+  "z": -31.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -90.08,
+  "y": 108.12,
+  "z": -29.34,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 101
+ },
+ {
+  "x": -113.43,
+  "y": 108.14,
+  "z": -31.6,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 120
+ },
+ {
+  "x": -91.5,
+  "y": 113.62,
+  "z": -54.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 111
+ },
+ {
+  "x": -99.99,
+  "y": 101.63,
+  "z": -57.17,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 110
+ },
+ {
+  "x": -93.84,
+  "y": 116.18,
+  "z": -26.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 108
+ },
+ {
+  "x": -102.12,
+  "y": 107.8,
+  "z": -57.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -85.27,
+  "y": 112.81,
+  "z": -37.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 119
+ },
+ {
+  "x": -93.17,
+  "y": 114.13,
+  "z": 210.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 146
+ },
+ {
+  "x": -90.48,
+  "y": 114.2,
+  "z": 202.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 237
+ },
+ {
+  "x": -85.87,
+  "y": 114.32,
+  "z": 212.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 161
+ },
+ {
+  "x": -90.97,
+  "y": 114.25,
+  "z": 209.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -93.58,
+  "y": 114.23,
+  "z": 222.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -96.67,
+  "y": 114.24,
+  "z": 214.1,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -105.21,
+  "y": 114.2,
+  "z": 208.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 236
+ },
+ {
+  "x": -95.34,
+  "y": 114.28,
+  "z": 212.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": -99.9,
+  "y": 114.24,
+  "z": 210.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 184
+ },
+ {
+  "x": -105.04,
+  "y": 114.17,
+  "z": 215.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 185
+ },
+ {
+  "x": -90.16,
+  "y": 114.16,
+  "z": 219.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": -88.76,
+  "y": 114.25,
+  "z": 201.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 173
+ },
+ {
+  "x": -94.82,
+  "y": 114.22,
+  "z": 197.95,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 181
+ },
+ {
+  "x": -98.67,
+  "y": 114.25,
+  "z": 206.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -92.19,
+  "y": 114.23,
+  "z": 210.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": -94.57,
+  "y": 114.3,
+  "z": 209.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": -92.56,
+  "y": 114.16,
+  "z": 210.98,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 171
+ },
+ {
+  "x": -100.95,
+  "y": 114.12,
+  "z": 206.56,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": -87.7,
+  "y": 114.31,
+  "z": 200.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 147
+ },
+ {
+  "x": -85.66,
+  "y": 114.29,
+  "z": 209.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -95.35,
+  "y": 114.15,
+  "z": 211.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 194
+ },
+ {
+  "x": -87.32,
+  "y": 114.25,
+  "z": 221.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -93.52,
+  "y": 114.3,
+  "z": 207.77,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 196
+ },
+ {
+  "x": -91.38,
+  "y": 114.2,
+  "z": 219.07,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 133
+ },
+ {
+  "x": -92.77,
+  "y": 114.3,
+  "z": 210.09,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 207
+ },
+ {
+  "x": -88.73,
+  "y": 114.14,
+  "z": 215.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 180
+ },
+ {
+  "x": -103.66,
+  "y": 114.3,
+  "z": 202.05,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 188
+ },
+ {
+  "x": -86.83,
+  "y": 114.22,
+  "z": 215.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 136
+ },
+ {
+  "x": -105.87,
+  "y": 114.12,
+  "z": 206.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 240
+ },
+ {
+  "x": -99.52,
+  "y": 114.22,
+  "z": 200.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 167
+ },
+ {
+  "x": -96.83,
+  "y": 114.21,
+  "z": 197.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 240
+ },
+ {
+  "x": -89.5,
+  "y": 114.2,
+  "z": 198.25,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 195
+ },
+ {
+  "x": -82.23,
+  "y": 114.29,
+  "z": 203.4,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -91.52,
+  "y": 114.22,
+  "z": 211.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 149
+ },
+ {
+  "x": -80.5,
+  "y": 114.24,
+  "z": 217.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 189
+ },
+ {
+  "x": -90.18,
+  "y": 114.26,
+  "z": 215.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 221
+ },
+ {
+  "x": -92.62,
+  "y": 114.22,
+  "z": 210.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 168
+ },
+ {
+  "x": -96.33,
+  "y": 114.18,
+  "z": 200.88,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": -93.97,
+  "y": 114.24,
+  "z": 210.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -104.1,
+  "y": 114.19,
+  "z": 216.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -104.63,
+  "y": 114.16,
+  "z": 219.22,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 190
+ },
+ {
+  "x": -104.41,
+  "y": 114.19,
+  "z": 211.44,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -85.15,
+  "y": 114.24,
+  "z": 209.59,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -93.48,
+  "y": 114.29,
+  "z": 199.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 204
+ },
+ {
+  "x": -92.29,
+  "y": 114.28,
+  "z": 211.93,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": -94.05,
+  "y": 114.28,
+  "z": 210.05,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 222
+ },
+ {
+  "x": -95.26,
+  "y": 114.26,
+  "z": 202.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": -96.42,
+  "y": 114.28,
+  "z": 205.65,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 225
+ },
+ {
+  "x": -83.18,
+  "y": 113.11,
+  "z": 222.21,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -79.53,
+  "y": 103.17,
+  "z": 218.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 137
+ },
+ {
+  "x": -79.14,
+  "y": 99.79,
+  "z": 217.49,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -78.67,
+  "y": 105.23,
+  "z": 203.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": -95.98,
+  "y": 113.67,
+  "z": 225.0,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 97
+ },
+ {
+  "x": -78.12,
+  "y": 111.52,
+  "z": 205.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -106.68,
+  "y": 102.25,
+  "z": 215.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": -95.94,
+  "y": 99.72,
+  "z": 225.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -107.71,
+  "y": 102.7,
+  "z": 208.61,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 111
+ },
+ {
+  "x": -99.53,
+  "y": 104.62,
+  "z": 196.56,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 90
+ },
+ {
+  "x": -77.42,
+  "y": 100.52,
+  "z": 207.8,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -89.69,
+  "y": 104.52,
+  "z": 195.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 140
+ },
+ {
+  "x": -105.17,
+  "y": 102.22,
+  "z": 218.67,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -93.77,
+  "y": 100.25,
+  "z": 194.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 101
+ },
+ {
+  "x": -107.05,
+  "y": 110.11,
+  "z": 205.44,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 134
+ },
+ {
+  "x": -101.3,
+  "y": 111.45,
+  "z": 222.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 118
+ },
+ {
+  "x": -104.5,
+  "y": 102.14,
+  "z": 200.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 141
+ },
+ {
+  "x": -106.13,
+  "y": 103.14,
+  "z": 203.2,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 142
+ },
+ {
+  "x": -107.78,
+  "y": 107.6,
+  "z": 209.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -96.71,
+  "y": 113.43,
+  "z": 224.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 155
+ },
+ {
+  "x": -77.81,
+  "y": 112.36,
+  "z": 206.02,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 122
+ },
+ {
+  "x": -97.76,
+  "y": 113.71,
+  "z": 195.78,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 151
+ },
+ {
+  "x": -90.61,
+  "y": 110.58,
+  "z": 194.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 148
+ },
+ {
+  "x": -98.88,
+  "y": 112.67,
+  "z": 196.24,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 93
+ },
+ {
+  "x": -107.69,
+  "y": 103.09,
+  "z": 211.85,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 138
+ },
+ {
+  "x": -102.71,
+  "y": 114.13,
+  "z": 198.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 119
+ },
+ {
+  "x": -238.12,
+  "y": 122.17,
+  "z": 141.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 188
+ },
+ {
+  "x": -227.63,
+  "y": 122.15,
+  "z": 134.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 131
+ },
+ {
+  "x": -227.75,
+  "y": 122.17,
+  "z": 128.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 190
+ },
+ {
+  "x": -241.77,
+  "y": 122.17,
+  "z": 136.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -224.12,
+  "y": 122.25,
+  "z": 142.73,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 239
+ },
+ {
+  "x": -241.59,
+  "y": 122.14,
+  "z": 134.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 214
+ },
+ {
+  "x": -228.06,
+  "y": 122.15,
+  "z": 138.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 226
+ },
+ {
+  "x": -230.51,
+  "y": 122.13,
+  "z": 132.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 133
+ },
+ {
+  "x": -226.09,
+  "y": 122.29,
+  "z": 135.61,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 183
+ },
+ {
+  "x": -226.87,
+  "y": 122.21,
+  "z": 125.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 125
+ },
+ {
+  "x": -236.64,
+  "y": 122.16,
+  "z": 144.11,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 234
+ },
+ {
+  "x": -215.71,
+  "y": 122.27,
+  "z": 125.68,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 182
+ },
+ {
+  "x": -227.46,
+  "y": 122.2,
+  "z": 131.97,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 170
+ },
+ {
+  "x": -230.71,
+  "y": 122.11,
+  "z": 133.18,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 222
+ },
+ {
+  "x": -221.71,
+  "y": 122.11,
+  "z": 132.36,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 164
+ },
+ {
+  "x": -230.05,
+  "y": 122.13,
+  "z": 129.21,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -238.03,
+  "y": 122.24,
+  "z": 137.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 121
+ },
+ {
+  "x": -235.18,
+  "y": 122.12,
+  "z": 141.82,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 166
+ },
+ {
+  "x": -228.28,
+  "y": 122.21,
+  "z": 144.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 150
+ },
+ {
+  "x": -223.73,
+  "y": 122.17,
+  "z": 133.69,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 143
+ },
+ {
+  "x": -225.84,
+  "y": 122.24,
+  "z": 142.13,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 167
+ },
+ {
+  "x": -232.23,
+  "y": 122.19,
+  "z": 138.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -229.48,
+  "y": 122.15,
+  "z": 133.83,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -224.04,
+  "y": 122.21,
+  "z": 124.38,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 229
+ },
+ {
+  "x": -224.17,
+  "y": 122.29,
+  "z": 139.36,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -220.5,
+  "y": 122.18,
+  "z": 135.19,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 137
+ },
+ {
+  "x": -218.82,
+  "y": 122.2,
+  "z": 122.42,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 212
+ },
+ {
+  "x": -232.51,
+  "y": 122.15,
+  "z": 135.15,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 229
+ },
+ {
+  "x": -234.67,
+  "y": 122.24,
+  "z": 139.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -227.79,
+  "y": 122.27,
+  "z": 138.03,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 132
+ },
+ {
+  "x": -231.19,
+  "y": 122.17,
+  "z": 140.66,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 191
+ },
+ {
+  "x": -224.57,
+  "y": 122.17,
+  "z": 126.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 172
+ },
+ {
+  "x": -226.46,
+  "y": 122.29,
+  "z": 133.38,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -232.89,
+  "y": 122.21,
+  "z": 127.63,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -229.68,
+  "y": 122.2,
+  "z": 138.62,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -219.06,
+  "y": 122.18,
+  "z": 127.56,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 156
+ },
+ {
+  "x": -220.89,
+  "y": 122.27,
+  "z": 132.84,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 201
+ },
+ {
+  "x": -234.14,
+  "y": 122.23,
+  "z": 145.26,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 193
+ },
+ {
+  "x": -222.55,
+  "y": 122.12,
+  "z": 131.34,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 163
+ },
+ {
+  "x": -229.13,
+  "y": 122.16,
+  "z": 137.93,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 154
+ },
+ {
+  "x": -235.02,
+  "y": 122.28,
+  "z": 140.39,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 219
+ },
+ {
+  "x": -236.3,
+  "y": 122.22,
+  "z": 144.72,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 177
+ },
+ {
+  "x": -225.16,
+  "y": 122.1,
+  "z": 140.53,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 213
+ },
+ {
+  "x": -227.74,
+  "y": 122.25,
+  "z": 138.33,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 215
+ },
+ {
+  "x": -227.1,
+  "y": 122.12,
+  "z": 135.81,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 128
+ },
+ {
+  "x": -241.8,
+  "y": 122.11,
+  "z": 137.14,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 218
+ },
+ {
+  "x": -227.14,
+  "y": 122.12,
+  "z": 128.71,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 153
+ },
+ {
+  "x": -219.57,
+  "y": 122.29,
+  "z": 139.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 169
+ },
+ {
+  "x": -233.27,
+  "y": 104.14,
+  "z": 148.96,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 126
+ },
+ {
+  "x": -242.0,
+  "y": 101.23,
+  "z": 140.08,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 157
+ },
+ {
+  "x": -219.65,
+  "y": 98.89,
+  "z": 121.79,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 135
+ },
+ {
+  "x": -217.95,
+  "y": 106.0,
+  "z": 123.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 150
+ },
+ {
+  "x": -242.64,
+  "y": 119.1,
+  "z": 137.87,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -242.26,
+  "y": 101.44,
+  "z": 130.16,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 159
+ },
+ {
+  "x": -220.95,
+  "y": 112.54,
+  "z": 148.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -242.8,
+  "y": 113.55,
+  "z": 132.51,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 129
+ },
+ {
+  "x": -214.88,
+  "y": 109.76,
+  "z": 126.48,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 119
+ },
+ {
+  "x": -222.56,
+  "y": 108.8,
+  "z": 120.38,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 136
+ },
+ {
+  "x": -240.7,
+  "y": 101.94,
+  "z": 142.75,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -212.44,
+  "y": 117.77,
+  "z": 134.76,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 107
+ },
+ {
+  "x": -236.2,
+  "y": 109.46,
+  "z": 147.43,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 91
+ },
+ {
+  "x": -233.52,
+  "y": 110.01,
+  "z": 120.64,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 151
+ },
+ {
+  "x": -232.39,
+  "y": 116.58,
+  "z": 149.27,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 127
+ },
+ {
+  "x": -240.22,
+  "y": 117.32,
+  "z": 126.01,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 160
+ },
+ {
+  "x": -238.41,
+  "y": 108.08,
+  "z": 145.63,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 145
+ },
+ {
+  "x": -239.75,
+  "y": 102.12,
+  "z": 144.12,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 139
+ },
+ {
+  "x": -220.49,
+  "y": 103.49,
+  "z": 121.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 100
+ },
+ {
+  "x": -241.18,
+  "y": 103.95,
+  "z": 141.91,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -231.01,
+  "y": 116.03,
+  "z": 149.65,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 124
+ },
+ {
+  "x": -240.74,
+  "y": 118.68,
+  "z": 142.69,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 113
+ },
+ {
+  "x": -217.73,
+  "y": 100.85,
+  "z": 146.3,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 148
+ },
+ {
+  "x": -238.98,
+  "y": 104.73,
+  "z": 124.46,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 152
+ },
+ {
+  "x": -221.89,
+  "y": 98.67,
+  "z": 148.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 96
+ },
+ {
+  "x": -212.72,
+  "y": 98.73,
+  "z": 131.86,
+  "classification": "building",
+  "class_code": 6,
+  "intensity": 103
+ },
+ {
+  "x": -40.89,
+  "y": 102.06,
+  "z": -130.88,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": 119.03,
+  "y": 104.18,
+  "z": -129.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 103
+ },
+ {
+  "x": -51.0,
+  "y": 102.56,
+  "z": -102.88,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 58
+ },
+ {
+  "x": -139.26,
+  "y": 105.29,
+  "z": -144.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 64
+ },
+ {
+  "x": -47.11,
+  "y": 107.38,
+  "z": -105.4,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ },
+ {
+  "x": 120.69,
+  "y": 103.39,
+  "z": -61.27,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 52
+ },
+ {
+  "x": 106.54,
+  "y": 108.55,
+  "z": -80.37,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": -140.36,
+  "y": 103.39,
+  "z": -112.88,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": 131.13,
+  "y": 102.11,
+  "z": -117.24,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 75
+ },
+ {
+  "x": -139.61,
+  "y": 102.29,
+  "z": -101.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": 131.18,
+  "y": 105.5,
+  "z": -149.0,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 83
+ },
+ {
+  "x": -144.27,
+  "y": 105.75,
+  "z": -124.53,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 53
+ },
+ {
+  "x": 133.69,
+  "y": 107.52,
+  "z": -66.26,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 84
+ },
+ {
+  "x": 131.58,
+  "y": 107.07,
+  "z": 121.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 72
+ },
+ {
+  "x": -144.13,
+  "y": 105.8,
+  "z": -114.79,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 102
+ },
+ {
+  "x": 119.78,
+  "y": 105.28,
+  "z": 117.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 110
+ },
+ {
+  "x": 117.14,
+  "y": 107.74,
+  "z": -132.55,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 109
+ },
+ {
+  "x": -32.89,
+  "y": 104.65,
+  "z": -99.92,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 63
+ },
+ {
+  "x": -138.56,
+  "y": 107.05,
+  "z": -148.75,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 108
+ },
+ {
+  "x": 106.08,
+  "y": 105.86,
+  "z": 117.88,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 76
+ },
+ {
+  "x": -53.68,
+  "y": 105.66,
+  "z": -104.49,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 48
+ },
+ {
+  "x": -138.69,
+  "y": 102.75,
+  "z": 122.73,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 64
+ },
+ {
+  "x": -160.59,
+  "y": 106.61,
+  "z": -139.85,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": -60.93,
+  "y": 102.5,
+  "z": -117.81,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 66
+ },
+ {
+  "x": 103.22,
+  "y": 104.53,
+  "z": -126.59,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 93
+ },
+ {
+  "x": -45.79,
+  "y": 102.28,
+  "z": -138.44,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 49
+ },
+ {
+  "x": -21.31,
+  "y": 102.68,
+  "z": -140.41,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 69
+ },
+ {
+  "x": 126.14,
+  "y": 105.99,
+  "z": 136.44,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 62
+ },
+ {
+  "x": 121.61,
+  "y": 106.72,
+  "z": -145.65,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 94
+ },
+ {
+  "x": -136.0,
+  "y": 105.53,
+  "z": 105.37,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": 132.41,
+  "y": 108.98,
+  "z": -148.72,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 87
+ },
+ {
+  "x": 124.88,
+  "y": 103.69,
+  "z": -109.42,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 109
+ },
+ {
+  "x": 132.7,
+  "y": 103.78,
+  "z": -127.26,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 97
+ },
+ {
+  "x": 123.19,
+  "y": 103.99,
+  "z": -100.0,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 42
+ },
+ {
+  "x": 164.58,
+  "y": 103.5,
+  "z": -138.57,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 80
+ },
+ {
+  "x": -127.46,
+  "y": 105.99,
+  "z": -146.99,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 59
+ },
+ {
+  "x": -146.78,
+  "y": 103.85,
+  "z": -128.28,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ },
+ {
+  "x": 131.97,
+  "y": 104.8,
+  "z": -144.89,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 67
+ },
+ {
+  "x": -138.03,
+  "y": 107.78,
+  "z": -147.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 52
+ },
+ {
+  "x": -51.89,
+  "y": 102.55,
+  "z": -145.61,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 47
+ },
+ {
+  "x": -40.67,
+  "y": 108.51,
+  "z": -148.78,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 55
+ },
+ {
+  "x": 118.69,
+  "y": 102.38,
+  "z": -142.65,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": -146.62,
+  "y": 105.52,
+  "z": -141.7,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 68
+ },
+ {
+  "x": 110.91,
+  "y": 108.8,
+  "z": -166.69,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 104
+ },
+ {
+  "x": -159.19,
+  "y": 103.04,
+  "z": 128.74,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 83
+ },
+ {
+  "x": -143.44,
+  "y": 104.79,
+  "z": -101.66,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 50
+ },
+ {
+  "x": 120.95,
+  "y": 102.94,
+  "z": -106.27,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 65
+ },
+ {
+  "x": 115.43,
+  "y": 106.31,
+  "z": -106.48,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": 148.71,
+  "y": 104.26,
+  "z": 129.04,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": -149.85,
+  "y": 104.25,
+  "z": -94.87,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 43
+ },
+ {
+  "x": -33.44,
+  "y": 108.93,
+  "z": 118.71,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 96
+ },
+ {
+  "x": 151.28,
+  "y": 103.4,
+  "z": -93.83,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 87
+ },
+ {
+  "x": 133.06,
+  "y": 108.64,
+  "z": -127.39,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 58
+ },
+ {
+  "x": -61.99,
+  "y": 104.14,
+  "z": -111.94,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": -136.2,
+  "y": 103.43,
+  "z": -125.58,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 106
+ },
+ {
+  "x": -76.8,
+  "y": 106.87,
+  "z": -126.15,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 42
+ },
+ {
+  "x": 119.86,
+  "y": 103.4,
+  "z": -125.78,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 74
+ },
+ {
+  "x": -140.87,
+  "y": 104.72,
+  "z": -101.28,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 74
+ },
+ {
+  "x": -26.05,
+  "y": 106.55,
+  "z": -127.12,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 69
+ },
+ {
+  "x": 131.37,
+  "y": 106.18,
+  "z": -137.85,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": 116.72,
+  "y": 108.48,
+  "z": 119.95,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 42
+ },
+ {
+  "x": -130.96,
+  "y": 105.43,
+  "z": 115.2,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": -144.51,
+  "y": 104.12,
+  "z": -150.3,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 104
+ },
+ {
+  "x": -67.34,
+  "y": 108.23,
+  "z": -147.51,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 43
+ },
+ {
+  "x": -35.18,
+  "y": 106.6,
+  "z": 140.87,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": 106.41,
+  "y": 104.99,
+  "z": 127.77,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 79
+ },
+ {
+  "x": -57.88,
+  "y": 102.97,
+  "z": -102.14,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 109
+ },
+ {
+  "x": 123.21,
+  "y": 105.67,
+  "z": 137.48,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 57
+ },
+ {
+  "x": 111.4,
+  "y": 103.11,
+  "z": 107.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 48
+ },
+ {
+  "x": -150.18,
+  "y": 107.09,
+  "z": 142.5,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 80
+ },
+ {
+  "x": 113.47,
+  "y": 107.75,
+  "z": -81.25,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 75
+ },
+ {
+  "x": 136.01,
+  "y": 107.34,
+  "z": 124.77,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 74
+ },
+ {
+  "x": 130.33,
+  "y": 102.56,
+  "z": 122.74,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 101
+ },
+ {
+  "x": 127.25,
+  "y": 107.96,
+  "z": -111.28,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 102
+ },
+ {
+  "x": 124.43,
+  "y": 104.86,
+  "z": 127.36,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 41
+ },
+ {
+  "x": -46.93,
+  "y": 103.42,
+  "z": -82.36,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 66
+ },
+ {
+  "x": -108.65,
+  "y": 108.07,
+  "z": 104.54,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 102
+ },
+ {
+  "x": -40.36,
+  "y": 107.43,
+  "z": -108.23,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 88
+ },
+ {
+  "x": -65.11,
+  "y": 106.16,
+  "z": -112.74,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": -161.45,
+  "y": 102.3,
+  "z": -123.27,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ },
+ {
+  "x": 106.48,
+  "y": 106.41,
+  "z": -135.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": 106.85,
+  "y": 107.42,
+  "z": -130.76,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 76
+ },
+ {
+  "x": 105.39,
+  "y": 102.38,
+  "z": 127.74,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 106
+ },
+ {
+  "x": 136.33,
+  "y": 107.06,
+  "z": -111.53,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 54
+ },
+ {
+  "x": 121.7,
+  "y": 102.17,
+  "z": 126.6,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 98
+ },
+ {
+  "x": 138.96,
+  "y": 106.54,
+  "z": -94.3,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": -130.12,
+  "y": 104.54,
+  "z": -121.38,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": 111.5,
+  "y": 107.38,
+  "z": 128.11,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 82
+ },
+ {
+  "x": 135.12,
+  "y": 106.98,
+  "z": 114.47,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 93
+ },
+ {
+  "x": -53.8,
+  "y": 104.02,
+  "z": -170.33,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 63
+ },
+ {
+  "x": -139.02,
+  "y": 107.36,
+  "z": 119.75,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 41
+ },
+ {
+  "x": 129.24,
+  "y": 102.04,
+  "z": -111.85,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 103
+ },
+ {
+  "x": 118.43,
+  "y": 104.87,
+  "z": 112.78,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 50
+ },
+ {
+  "x": -132.85,
+  "y": 106.4,
+  "z": 113.46,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 66
+ },
+ {
+  "x": -129.58,
+  "y": 102.26,
+  "z": 134.02,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 44
+ },
+ {
+  "x": -46.66,
+  "y": 104.92,
+  "z": -141.83,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 62
+ },
+ {
+  "x": 115.9,
+  "y": 106.16,
+  "z": -151.83,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 62
+ },
+ {
+  "x": 124.82,
+  "y": 104.1,
+  "z": -142.21,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 87
+ },
+ {
+  "x": 121.22,
+  "y": 102.45,
+  "z": -153.07,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": 126.72,
+  "y": 105.69,
+  "z": -139.04,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": 125.6,
+  "y": 107.11,
+  "z": 116.26,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": -142.65,
+  "y": 107.52,
+  "z": -116.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 76
+ },
+ {
+  "x": 119.05,
+  "y": 106.36,
+  "z": -124.33,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 56
+ },
+ {
+  "x": 112.45,
+  "y": 106.27,
+  "z": -99.64,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 77
+ },
+ {
+  "x": 139.89,
+  "y": 107.58,
+  "z": -120.92,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 66
+ },
+ {
+  "x": 130.68,
+  "y": 107.64,
+  "z": -96.86,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 67
+ },
+ {
+  "x": -143.38,
+  "y": 102.47,
+  "z": 111.45,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 78
+ },
+ {
+  "x": -41.84,
+  "y": 104.77,
+  "z": -122.91,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 43
+ },
+ {
+  "x": 124.72,
+  "y": 106.71,
+  "z": 129.53,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": -156.74,
+  "y": 108.24,
+  "z": 121.96,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 108
+ },
+ {
+  "x": -47.37,
+  "y": 107.2,
+  "z": -112.12,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 106
+ },
+ {
+  "x": -52.19,
+  "y": 106.04,
+  "z": -140.79,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 82
+ },
+ {
+  "x": -40.44,
+  "y": 102.22,
+  "z": -131.85,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 88
+ },
+ {
+  "x": 132.29,
+  "y": 107.48,
+  "z": -94.48,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 79
+ },
+ {
+  "x": -50.69,
+  "y": 108.14,
+  "z": -124.93,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 87
+ },
+ {
+  "x": 122.15,
+  "y": 102.79,
+  "z": -130.05,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 44
+ },
+ {
+  "x": 127.47,
+  "y": 105.38,
+  "z": -129.07,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 104
+ },
+ {
+  "x": 122.6,
+  "y": 108.12,
+  "z": 131.64,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 79
+ },
+ {
+  "x": -49.33,
+  "y": 108.88,
+  "z": 114.58,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 106
+ },
+ {
+  "x": 127.88,
+  "y": 107.0,
+  "z": 106.86,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 106
+ },
+ {
+  "x": -141.35,
+  "y": 107.94,
+  "z": -126.66,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": -45.7,
+  "y": 107.36,
+  "z": -103.59,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 79
+ },
+ {
+  "x": -145.3,
+  "y": 103.4,
+  "z": -146.31,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 76
+ },
+ {
+  "x": -47.45,
+  "y": 103.91,
+  "z": -157.71,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": -33.32,
+  "y": 105.6,
+  "z": -128.4,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 66
+ },
+ {
+  "x": -53.79,
+  "y": 107.63,
+  "z": -111.5,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ },
+ {
+  "x": 120.47,
+  "y": 105.78,
+  "z": -106.53,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": 112.3,
+  "y": 102.74,
+  "z": -126.71,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": -154.58,
+  "y": 108.24,
+  "z": -88.23,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 97
+ },
+ {
+  "x": -53.94,
+  "y": 107.31,
+  "z": -133.07,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 108
+ },
+ {
+  "x": -144.83,
+  "y": 107.62,
+  "z": -102.19,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 99
+ },
+ {
+  "x": -146.39,
+  "y": 107.37,
+  "z": -83.97,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": 145.8,
+  "y": 103.81,
+  "z": 140.03,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 86
+ },
+ {
+  "x": 114.47,
+  "y": 107.52,
+  "z": 103.13,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 81
+ },
+ {
+  "x": 133.38,
+  "y": 104.46,
+  "z": -97.42,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 99
+ },
+ {
+  "x": 131.84,
+  "y": 102.89,
+  "z": -156.24,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 53
+ },
+ {
+  "x": 112.03,
+  "y": 107.55,
+  "z": -114.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 108
+ },
+ {
+  "x": 112.54,
+  "y": 103.71,
+  "z": -104.77,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 60
+ },
+ {
+  "x": 127.5,
+  "y": 106.86,
+  "z": -96.69,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 95
+ },
+ {
+  "x": 111.53,
+  "y": 106.64,
+  "z": -142.43,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 49
+ },
+ {
+  "x": 108.8,
+  "y": 105.89,
+  "z": -137.32,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 96
+ },
+ {
+  "x": 134.38,
+  "y": 102.76,
+  "z": -141.25,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 88
+ },
+ {
+  "x": -52.62,
+  "y": 103.52,
+  "z": -103.38,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 57
+ },
+ {
+  "x": -147.0,
+  "y": 104.04,
+  "z": 108.83,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 97
+ },
+ {
+  "x": 125.63,
+  "y": 105.99,
+  "z": 110.48,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 78
+ },
+ {
+  "x": 135.84,
+  "y": 106.28,
+  "z": -140.97,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 105
+ },
+ {
+  "x": 122.59,
+  "y": 108.31,
+  "z": 116.55,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": -132.46,
+  "y": 102.22,
+  "z": -133.79,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 95
+ },
+ {
+  "x": 117.09,
+  "y": 105.05,
+  "z": -151.9,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 67
+ },
+ {
+  "x": 139.81,
+  "y": 107.9,
+  "z": -88.28,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 86
+ },
+ {
+  "x": 114.17,
+  "y": 102.88,
+  "z": 143.66,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 41
+ },
+ {
+  "x": -124.58,
+  "y": 106.61,
+  "z": -110.38,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 57
+ },
+ {
+  "x": -147.8,
+  "y": 105.19,
+  "z": 110.3,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 94
+ },
+ {
+  "x": 114.82,
+  "y": 105.15,
+  "z": -100.9,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 85
+ },
+ {
+  "x": 128.7,
+  "y": 105.49,
+  "z": 120.67,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 70
+ },
+ {
+  "x": -35.92,
+  "y": 102.23,
+  "z": -107.0,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 44
+ },
+ {
+  "x": 130.42,
+  "y": 106.83,
+  "z": -131.02,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 58
+ },
+ {
+  "x": -64.53,
+  "y": 106.27,
+  "z": -101.55,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ },
+ {
+  "x": 113.99,
+  "y": 106.06,
+  "z": -143.67,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": -64.11,
+  "y": 105.28,
+  "z": -127.2,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 82
+ },
+ {
+  "x": 140.82,
+  "y": 104.02,
+  "z": -145.26,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 44
+ },
+ {
+  "x": -37.41,
+  "y": 103.18,
+  "z": -134.89,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": -51.14,
+  "y": 105.54,
+  "z": -125.15,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 75
+ },
+ {
+  "x": -57.19,
+  "y": 103.8,
+  "z": 113.6,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 54
+ },
+ {
+  "x": 123.77,
+  "y": 103.23,
+  "z": 110.3,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 70
+ },
+ {
+  "x": 127.29,
+  "y": 104.4,
+  "z": 97.26,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 50
+ },
+ {
+  "x": 140.49,
+  "y": 104.89,
+  "z": 102.9,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 89
+ },
+ {
+  "x": 128.91,
+  "y": 106.04,
+  "z": -107.18,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 84
+ },
+ {
+  "x": -139.79,
+  "y": 103.17,
+  "z": -145.96,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 91
+ },
+ {
+  "x": 91.12,
+  "y": 108.46,
+  "z": -135.66,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 69
+ },
+ {
+  "x": 113.36,
+  "y": 108.09,
+  "z": -98.93,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 41
+ },
+ {
+  "x": -57.71,
+  "y": 105.71,
+  "z": -92.94,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 45
+ },
+ {
+  "x": -127.72,
+  "y": 108.43,
+  "z": -143.47,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 74
+ },
+ {
+  "x": -50.58,
+  "y": 106.58,
+  "z": -134.57,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 90
+ },
+ {
+  "x": 118.43,
+  "y": 103.36,
+  "z": 104.08,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 83
+ },
+ {
+  "x": 112.86,
+  "y": 107.82,
+  "z": -145.29,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 41
+ },
+ {
+  "x": 101.98,
+  "y": 104.46,
+  "z": -132.89,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 76
+ },
+ {
+  "x": -33.7,
+  "y": 102.4,
+  "z": 123.54,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 67
+ },
+ {
+  "x": -126.0,
+  "y": 104.63,
+  "z": -121.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 63
+ },
+ {
+  "x": -140.28,
+  "y": 108.55,
+  "z": 133.46,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 98
+ },
+ {
+  "x": -56.32,
+  "y": 107.39,
+  "z": -116.65,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 72
+ },
+ {
+  "x": 129.27,
+  "y": 104.72,
+  "z": -125.76,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 47
+ },
+ {
+  "x": -48.01,
+  "y": 108.86,
+  "z": -135.91,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 65
+ },
+ {
+  "x": 116.49,
+  "y": 105.78,
+  "z": 115.45,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 95
+ },
+ {
+  "x": 146.23,
+  "y": 102.72,
+  "z": -139.93,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 49
+ },
+ {
+  "x": -139.6,
+  "y": 105.48,
+  "z": -142.3,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 40
+ },
+ {
+  "x": -141.92,
+  "y": 108.33,
+  "z": -81.48,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 40
+ },
+ {
+  "x": 98.71,
+  "y": 107.47,
+  "z": -90.95,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 48
+ },
+ {
+  "x": 116.28,
+  "y": 107.46,
+  "z": -117.82,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 55
+ },
+ {
+  "x": -55.04,
+  "y": 106.43,
+  "z": -151.04,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 51
+ },
+ {
+  "x": -38.35,
+  "y": 107.37,
+  "z": -133.55,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 65
+ },
+ {
+  "x": 147.28,
+  "y": 104.09,
+  "z": -133.58,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 89
+ },
+ {
+  "x": -164.88,
+  "y": 105.07,
+  "z": -137.89,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 64
+ },
+ {
+  "x": 136.7,
+  "y": 106.15,
+  "z": -112.07,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 102
+ },
+ {
+  "x": 124.57,
+  "y": 105.5,
+  "z": -146.62,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 97
+ },
+ {
+  "x": -145.8,
+  "y": 107.05,
+  "z": -120.78,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 91
+ },
+ {
+  "x": -133.75,
+  "y": 105.21,
+  "z": 103.33,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 108
+ },
+ {
+  "x": 132.93,
+  "y": 102.99,
+  "z": 118.5,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 42
+ },
+ {
+  "x": 120.8,
+  "y": 102.1,
+  "z": -112.66,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 46
+ },
+ {
+  "x": -57.07,
+  "y": 106.14,
+  "z": -128.0,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 53
+ },
+ {
+  "x": -153.73,
+  "y": 102.44,
+  "z": -109.33,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 65
+ },
+ {
+  "x": 132.84,
+  "y": 106.75,
+  "z": -171.55,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 81
+ },
+ {
+  "x": -153.49,
+  "y": 103.49,
+  "z": 147.95,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 45
+ },
+ {
+  "x": 138.85,
+  "y": 107.3,
+  "z": -136.29,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 61
+ },
+ {
+  "x": -75.35,
+  "y": 102.28,
+  "z": 130.29,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 52
+ },
+ {
+  "x": 133.8,
+  "y": 102.04,
+  "z": 121.36,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 62
+ },
+ {
+  "x": -158.83,
+  "y": 107.41,
+  "z": -129.06,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 56
+ },
+ {
+  "x": 120.68,
+  "y": 104.88,
+  "z": 108.76,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 62
+ },
+ {
+  "x": -143.38,
+  "y": 102.62,
+  "z": 103.84,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 78
+ },
+ {
+  "x": -41.21,
+  "y": 102.82,
+  "z": -99.75,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 107
+ },
+ {
+  "x": -117.04,
+  "y": 105.55,
+  "z": -166.81,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 99
+ },
+ {
+  "x": 135.54,
+  "y": 103.04,
+  "z": -138.08,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 100
+ },
+ {
+  "x": 134.58,
+  "y": 102.38,
+  "z": 142.9,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 86
+ },
+ {
+  "x": -59.93,
+  "y": 107.64,
+  "z": 124.32,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 98
+ },
+ {
+  "x": -141.64,
+  "y": 103.23,
+  "z": -157.25,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 43
+ },
+ {
+  "x": 127.93,
+  "y": 105.11,
+  "z": -126.21,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 81
+ },
+ {
+  "x": 119.53,
+  "y": 103.61,
+  "z": 94.34,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 54
+ },
+ {
+  "x": -33.98,
+  "y": 108.09,
+  "z": 131.35,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 88
+ },
+ {
+  "x": 116.42,
+  "y": 108.23,
+  "z": -127.5,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 58
+ },
+ {
+  "x": 135.07,
+  "y": 105.2,
+  "z": -89.56,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 64
+ },
+ {
+  "x": -48.15,
+  "y": 106.85,
+  "z": -134.02,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 47
+ },
+ {
+  "x": -39.71,
+  "y": 104.93,
+  "z": 128.63,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 83
+ },
+ {
+  "x": 113.15,
+  "y": 106.47,
+  "z": -152.84,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 61
+ },
+ {
+  "x": 117.61,
+  "y": 108.04,
+  "z": -122.32,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 67
+ },
+ {
+  "x": 116.46,
+  "y": 107.15,
+  "z": -80.91,
+  "classification": "vegetation",
+  "class_code": 5,
+  "intensity": 71
+ }
+]
