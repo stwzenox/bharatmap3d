@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>3D ULPIN VPMS — Project Analysis</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --surface2: #f1f5f9;
+      --border: #e2e8f0;
+      --accent: #4f46e5;
+      --accent2: #0891b2;
+      --accent3: #d97706;
+      --text: #0f172a;
+      --muted: #64748b;
+      --green: #059669;
+      --red: #dc2626;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 48px 56px;
+      line-height: 1.7;
+      font-size: 13.5px;
+    }
+
+    /* ── HEADER ── */
+    .hero {
+      background: linear-gradient(135deg, #eef2ff 0%, #e0f2fe 50%, #f0fdf4 100%);
+      border: 1px solid #c7d2fe;
+      border-radius: 16px;
+      padding: 40px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 220px; height: 220px;
+      background: radial-gradient(circle, rgba(79,70,229,0.12) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: rgba(79,70,229,0.1);
+      border: 1px solid rgba(79,70,229,0.35);
+      color: #4338ca;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+    .hero h1 {
+      font-size: 30px;
+      font-weight: 800;
+      background: linear-gradient(90deg, #1e1b4b, #4f46e5, #0891b2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .hero-meta {
+      display: flex;
+      gap: 24px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .hero-pill {
+      background: rgba(255,255,255,0.7);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 14px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .hero-pill span { color: var(--text); font-weight: 600; }
+
+    /* ── SECTION ── */
+    h2 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    h2::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+    .section { margin-bottom: 44px; }
+
+    /* ── TABLES ── */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    thead tr {
+      background: var(--surface2);
+    }
+    th {
+      text-align: left;
+      padding: 11px 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+    }
+    td {
+      padding: 10px 16px;
+      border-bottom: 1px solid #f1f5f9;
+      color: var(--text);
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #f8fafc; }
+    tbody tr:nth-child(even) td { background: #fafbfc; }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    code {
+      font-family: 'JetBrains Mono', monospace;
+      background: #ede9fe;
+      border: 1px solid #c4b5fd;
+      color: #5b21b6;
+      padding: 1px 7px;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+
+    /* ── MERMAID ── */
+    .diagram-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px 24px;
+      overflow-x: auto;
+    }
+    .diagram-wrap .mermaid {
+      display: flex;
+      justify-content: center;
+    }
+
+    /* ── FLOW STEPS ── */
+    .flow-steps {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      flex-wrap: wrap;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px 28px;
+    }
+    .flow-step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      flex: 1;
+      min-width: 120px;
+    }
+    .flow-icon {
+      width: 52px; height: 52px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+    }
+    .flow-label {
+      font-size: 11.5px;
+      font-weight: 600;
+      color: var(--text);
+      text-align: center;
+      line-height: 1.4;
+    }
+    .flow-sub {
+      font-size: 10px;
+      color: var(--muted);
+      text-align: center;
+    }
+    .flow-arrow {
+      color: var(--muted);
+      font-size: 22px;
+      padding: 0 6px;
+      flex: 0;
+    }
+
+    /* ── KEY CONCEPTS ── */
+    .concepts-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+    .concept-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .concept-title {
+      font-size: 12.5px;
+      font-weight: 700;
+      color: #0e7490;
+    }
+    .concept-desc {
+      font-size: 12px;
+      color: #475569;
+    }
+
+    /* ── MODULE MAP ── */
+    .module-map {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px 28px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      line-height: 1.9;
+      color: var(--muted);
+      white-space: pre;
+    }
+    .module-map .dir  { color: #1d4ed8; font-weight: 600; }
+    .module-map .file { color: #64748b; }
+    .module-map .note { color: #059669; }
+    .module-map .root { color: var(--text); font-weight: 700; }
+
+    /* ── FOOTER ── */
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 11px;
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+      margin-top: 48px;
+    }
+
+    /* ── PRINT ── */
+    @media print {
+      body { background: #fff; color: #111; padding: 24px 32px; }
+      .hero { background: #f0f4ff; border-color: #c7d2fe; }
+      .hero h1 { -webkit-text-fill-color: #312e81; color: #312e81; }
+      .hero p, .hero-pill { color: #4b5563; }
+      .card, .diagram-wrap, .flow-steps, .concept-card, .module-map {
+        background: #f9fafb; border-color: #e5e7eb;
+      }
+      td, th { color: #111; border-color: #e5e7eb; }
+      code { background: #ede9fe; border-color: #c4b5fd; color: #5b21b6; }
+      .concept-title { color: #0891b2; }
+      .concept-desc { color: #374151; }
+      .module-map { color: #374151; }
+      .module-map .dir  { color: #1d4ed8; }
+      .module-map .note { color: #065f46; }
+      h2 { color: #111; }
+      h2::after { background: #e5e7eb; }
+      .flow-arrow { color: #9ca3af; }
+      .footer { color: #6b7280; border-color: #e5e7eb; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-badge">SIH 2026 · Problem Statement 11</div>
+    <h1>3D ULPIN & Vertical Property Mapping System</h1>
+    <p>Unique Land Parcel Identification for every floor/unit — India's 3D Cadastral Registry Prototype</p>
+    <div class="hero-meta">
+      <div class="hero-pill">📍 <span>Prayagraj, Uttar Pradesh, India</span></div>
+      <div class="hero-pill">🗄️ <span>SQLite Cadastral DB</span></div>
+      <div class="hero-pill">🌐 <span>Vercel Deployed</span></div>
+      <div class="hero-pill">🏗️ <span>3D Floor-Level Registry</span></div>
+    </div>
+  </div>
+
+  <!-- TECH STACK -->
+  <div class="section">
+    <h2>🧱 Tech Stack</h2>
+    <div class="card">
+      <table>
+        <thead>
+          <tr><th>Layer</th><th>Technology</th><th>Purpose</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Frontend Framework</td><td><code>React 18</code> + <code>TypeScript</code> + <code>Vite</code></td><td>SPA shell, bundler</td></tr>
+          <tr><td>3D Rendering</td><td><code>Three.js</code> + <code>@react-three/fiber</code> + <code>Drei</code></td><td>Interactive 3D building views</td></tr>
+          <tr><td>2D Map</td><td><code>Leaflet</code> + <code>react-leaflet</code></td><td>Parcel picker map</td></tr>
+          <tr><td>Google Maps</td><td>Google Maps JS API</td><td>Satellite / hybrid base layer</td></tr>
+          <tr><td>State Management</td><td><code>Zustand</code></td><td>Global cadastral store</td></tr>
+          <tr><td>Styling</td><td><code>TailwindCSS</code> + PostCSS</td><td>Utility-first UI</td></tr>
+          <tr><td>HTTP Client</td><td><code>Axios</code></td><td>REST API calls to backend</td></tr>
+          <tr><td>QR Code</td><td><code>qrcode</code></td><td>ULPIN QR generation</td></tr>
+          <tr><td>Backend Framework</td><td><code>FastAPI</code> + <code>Uvicorn</code></td><td>Async REST API server</td></tr>
+          <tr><td>ORM</td><td><code>SQLAlchemy 2.0</code></td><td>Database models & queries</td></tr>
+          <tr><td>Database</td><td><code>SQLite</code> (cadastral.db)</td><td>Parcel / building / floor records</td></tr>
+          <tr><td>Geometry</td><td><code>Shapely</code> + <code>PyProj</code></td><td>GIS polygon ops + coord projection</td></tr>
+          <tr><td>AI Services</td><td>ai_services.py</td><td>Internal AI stub for property analysis</td></tr>
+          <tr><td>LiDAR</td><td>lidar_service.py</td><td>Simulated point cloud terrain data</td></tr>
+          <tr><td>Data Validation</td><td><code>Pydantic v2</code></td><td>Schema validation for all API payloads</td></tr>
+          <tr><td>Deployment</td><td><code>Vercel</code></td><td>Frontend hosting + vercel.json routing</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- SYSTEM FLOW DIAGRAM -->
+  <div class="section">
+    <h2>🔄 System Architecture Flow</h2>
+    <div class="diagram-wrap">
+      <div class="mermaid">
+flowchart TD
+    USER(["👤 User"])
+
+    subgraph FE ["🖥️ Frontend — React + Vite"]
+        direction TB
+        UI["App.tsx — UI Shell"]
+        SIDEBAR["Sidebar\nSearch & Filter"]
+        LEAFLET["LeafletMap\n2D Parcel Picker"]
+        GOOGLE["Google Maps\nControls"]
+        SCENE["Scene3D\nReact Three Fiber"]
+        STORE["Zustand Store\nuseCadastralStore"]
+        REPORT["Report Modal\nQR + Export"]
+
+        UI --> SIDEBAR & LEAFLET & GOOGLE & SCENE
+        LEAFLET -->|click parcel| STORE
+        SIDEBAR -->|search/select| STORE
+        STORE -->|selected entity| SCENE
+        STORE -->|selected entity| REPORT
+    end
+
+    subgraph S3D ["🏗️ 3D Render — Three.js"]
+        TERRAIN["TerrainMesh"]
+        PARCEL["ParcelGroundMesh"]
+        BLDG["BuildingMesh"]
+        FLOOR["FloorMesh"]
+        UNDER["UndergroundMesh"]
+        ELEV["ElevatedStructureMesh"]
+        LIDAR_V["LidarPointCloud"]
+        GNSS["GnssMarkers"]
+        TERRAIN --> PARCEL --> BLDG --> FLOOR
+        BLDG --> UNDER & ELEV
+        SCENE --> TERRAIN & LIDAR_V & GNSS
+    end
+
+    subgraph BE ["⚙️ Backend — FastAPI"]
+        direction TB
+        GW["FastAPI Gateway\nmain.py"]
+        subgraph API ["REST Routers"]
+            RP["/parcels"] & RB["/buildings"] & RF["/floors"]
+            RPR["/properties"] & RU["/ulpin"] & RV["/validation"]
+            RI["/imports"] & RIF["/infrastructure"]
+        end
+        subgraph SVC ["Services"]
+            ULPIN_G["ULPIN Generator"]
+            GEO["Geospatial\nProjection + Terrain"]
+            AI["AI Service"]
+            LIDAR_S["LiDAR Service"]
+        end
+        DB[("🗄️ SQLite\ncadastral.db")]
+
+        GW --> API
+        API --> SVC & DB
+        ULPIN_G -->|unique ID| DB
+        GEO -->|PyProj + Shapely| DB
+    end
+
+    subgraph EXT ["📥 External Sources"]
+        OSM["OpenStreetMap\nfetch_osm.py"]
+        GJ["GeoJSON / CSV\nImport"]
+    end
+
+    USER -->|interact| FE
+    STORE <-->|Axios REST| GW
+    OSM & GJ --> RI
+      </div>
+    </div>
+  </div>
+
+  <!-- DATA FLOW STEPS -->
+  <div class="section">
+    <h2>🗺️ Data Flow — Step by Step</h2>
+    <div class="flow-steps">
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(99,102,241,0.15);border:1px solid rgba(99,102,241,0.4)">🗺️</div>
+        <div class="flow-label">Click Parcel</div>
+        <div class="flow-sub">Leaflet 2D map</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(34,211,238,0.15);border:1px solid rgba(34,211,238,0.4)">⚡</div>
+        <div class="flow-label">Zustand Store</div>
+        <div class="flow-sub">setSelectedParcel(id)</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(245,158,11,0.15);border:1px solid rgba(245,158,11,0.4)">🌐</div>
+        <div class="flow-label">Axios HTTP</div>
+        <div class="flow-sub">GET /api/v1/buildings</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(52,211,153,0.15);border:1px solid rgba(52,211,153,0.4)">⚙️</div>
+        <div class="flow-label">FastAPI</div>
+        <div class="flow-sub">SQLAlchemy query</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(248,113,113,0.15);border:1px solid rgba(248,113,113,0.4)">🗄️</div>
+        <div class="flow-label">SQLite DB</div>
+        <div class="flow-sub">Returns rows</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(167,139,250,0.15);border:1px solid rgba(167,139,250,0.4)">🏗️</div>
+        <div class="flow-label">Three.js Scene</div>
+        <div class="flow-sub">3D render update</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-icon" style="background:rgba(251,191,36,0.15);border:1px solid rgba(251,191,36,0.4)">🔑</div>
+        <div class="flow-label">ULPIN + QR</div>
+        <div class="flow-sub">Report export</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SEQUENCE DIAGRAM -->
+  <div class="section">
+    <h2>📡 Sequence Diagram</h2>
+    <div class="diagram-wrap">
+      <div class="mermaid">
+sequenceDiagram
+    participant U as 👤 User
+    participant L as Leaflet Map
+    participant Z as Zustand Store
+    participant AX as Axios
+    participant FA as FastAPI
+    participant DB as SQLite DB
+    participant 3D as Three.js
+
+    U->>L: Click parcel on 2D map
+    L->>Z: setSelectedParcel(id)
+    Z->>AX: GET /api/v1/buildings?parcel_id=X
+    AX->>FA: HTTP Request
+    FA->>DB: SQLAlchemy Query
+    DB-->>FA: Rows (buildings + floors)
+    FA-->>AX: JSON response
+    AX-->>Z: Update global state
+    Z->>3D: Re-render 3D scene
+    3D->>U: Interactive 3D building
+
+    U->>FA: POST /api/v1/ulpin/generate
+    FA->>FA: ULPIN generator (lat/lng/floor)
+    FA-->>U: Unique ULPIN + QR code
+      </div>
+    </div>
+  </div>
+
+  <!-- KEY CONCEPTS -->
+  <div class="section">
+    <h2>🔑 Key Concepts</h2>
+    <div class="concepts-grid">
+      <div class="concept-card">
+        <div class="concept-title">ULPIN</div>
+        <div class="concept-desc">Unique Land Parcel ID assigned per vertical unit (floor-level). India's cadastral identity for 3D properties.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">3D Ladder ("3d lddr")</div>
+        <div class="concept-desc">Vertical stacking model — underground → ground parcel → floors → rooftop → elevated structures.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">Cadastral DB</div>
+        <div class="concept-desc">SQLite with SQLAlchemy models for parcels, buildings, floors, properties, and infrastructure records.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">Geospatial Projection</div>
+        <div class="concept-desc">WGS84 (GPS) ↔ local metric coordinates via <code>PyProj</code>. Enables accurate 3D positioning in Three.js.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">LiDAR Service</div>
+        <div class="concept-desc">Simulated point-cloud terrain data for realistic elevation rendering in the 3D scene.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">OSM Integration</div>
+        <div class="concept-desc">Imports real-world building footprints from OpenStreetMap via <code>fetch_osm.py</code>.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">Import Pipeline</div>
+        <div class="concept-desc">Bulk parcel ingestion via GeoJSON, CSV, or OSM data through <code>/api/v1/imports</code>.</div>
+      </div>
+      <div class="concept-card">
+        <div class="concept-title">Validation Layer</div>
+        <div class="concept-desc">Pydantic v2 schemas + dedicated validation API cross-check data integrity before ULPIN assignment.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODULE MAP -->
+  <div class="section">
+    <h2>📁 Module Map</h2>
+    <div class="module-map"><span class="root">3d lddr/</span>
+<span class="dir">├── frontend/src/</span>
+│   <span class="dir">├── three/</span>             <span class="note">→ 3D mesh components</span>
+│   │   <span class="file">├── Scene3D.tsx</span>        <span class="note"># canvas root</span>
+│   │   <span class="file">├── BuildingMesh.tsx</span>    <span class="note"># building geometry</span>
+│   │   <span class="file">├── FloorMesh.tsx</span>       <span class="note"># per-floor slabs</span>
+│   │   <span class="file">├── TerrainMesh.tsx</span>     <span class="note"># ground surface</span>
+│   │   <span class="file">├── ParcelGroundMesh.tsx</span><span class="note"># parcel boundary</span>
+│   │   <span class="file">├── UndergroundMesh.tsx</span> <span class="note"># basement layers</span>
+│   │   <span class="file">├── ElevatedStructureMesh.tsx</span>
+│   │   <span class="file">├── LidarPointCloud.tsx</span> <span class="note"># point cloud viz</span>
+│   │   <span class="file">└── GnssMarkers.tsx</span>     <span class="note"># GPS markers</span>
+│   <span class="dir">├── map/</span>
+│   │   <span class="file">└── LeafletMap.tsx</span>      <span class="note"># 2D parcel picker</span>
+│   <span class="dir">├── components/</span>
+│   │   <span class="dir">├── google/</span>            <span class="note"># Google Maps controls</span>
+│   │   <span class="dir">├── layout/</span>            <span class="note"># Sidebar, Header, Details panel</span>
+│   │   <span class="dir">├── report/</span>            <span class="note"># PDF / QR report modal</span>
+│   │   <span class="dir">├── validation/</span>        <span class="note"># Data validation UI</span>
+│   │   <span class="dir">└── import/</span>            <span class="note"># File import UI</span>
+│   <span class="dir">├── state/</span>
+│   │   <span class="file">└── useCadastralStore.ts</span><span class="note"># Zustand global store</span>
+│   <span class="dir">└── api/</span>                   <span class="note"># Axios API client</span>
+
+<span class="dir">└── backend/app/</span>
+    <span class="dir">├── api/</span>               <span class="note">→ FastAPI routers (8 endpoints)</span>
+    │   <span class="file">├── parcels.py</span>
+    │   <span class="file">├── buildings.py</span>
+    │   <span class="file">├── floors.py</span>
+    │   <span class="file">├── properties.py</span>
+    │   <span class="file">├── ulpin.py</span>          <span class="note"># ULPIN generation</span>
+    │   <span class="file">├── validation.py</span>
+    │   <span class="file">├── imports.py</span>        <span class="note"># GeoJSON/OSM/CSV</span>
+    │   <span class="file">└── infrastructure.py</span>
+    <span class="dir">├── models/</span>            <span class="note"># SQLAlchemy ORM models</span>
+    <span class="dir">├── schemas/</span>           <span class="note"># Pydantic schemas</span>
+    <span class="dir">├── services/</span>
+    │   <span class="file">├── ai_services.py</span>    <span class="note"># AI analysis stub</span>
+    │   <span class="file">└── lidar_service.py</span>  <span class="note"># Simulated LiDAR</span>
+    <span class="dir">├── ulpin/</span>
+    │   <span class="file">└── generator.py</span>      <span class="note"># ULPIN ID generator</span>
+    <span class="dir">├── geospatial/</span>
+    │   <span class="file">├── projection.py</span>     <span class="note"># WGS84 ↔ metric</span>
+    │   <span class="file">└── terrain.py</span>        <span class="note"># elevation data</span>
+    <span class="dir">├── validation/</span>        <span class="note"># data integrity checks</span>
+    └── <span class="file">database/</span>          <span class="note"># SQLite session mgmt</span></div>
+  </div>
+
+  <!-- API ENDPOINTS -->
+  <div class="section">
+    <h2>🔌 API Endpoints</h2>
+    <div class="card">
+      <table>
+        <thead><tr><th>Method</th><th>Endpoint</th><th>Purpose</th></tr></thead>
+        <tbody>
+          <tr><td><code style="color:#34d399">GET</code></td><td><code>/api/v1/parcels</code></td><td>List / query land parcels</td></tr>
+          <tr><td><code style="color:#34d399">GET</code></td><td><code>/api/v1/buildings</code></td><td>Buildings for a parcel</td></tr>
+          <tr><td><code style="color:#34d399">GET</code></td><td><code>/api/v1/floors</code></td><td>Floor data for a building</td></tr>
+          <tr><td><code style="color:#34d399">GET</code></td><td><code>/api/v1/properties</code></td><td>Property unit details</td></tr>
+          <tr><td><code style="color:#f59e0b">POST</code></td><td><code>/api/v1/ulpin/generate</code></td><td>Generate ULPIN + QR code</td></tr>
+          <tr><td><code style="color:#f59e0b">POST</code></td><td><code>/api/v1/validation</code></td><td>Validate property data</td></tr>
+          <tr><td><code style="color:#f59e0b">POST</code></td><td><code>/api/v1/imports</code></td><td>Bulk import GeoJSON / CSV / OSM</td></tr>
+          <tr><td><code style="color:#34d399">GET</code></td><td><code>/api/v1/infrastructure</code></td><td>Utilities / road infrastructure</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="footer">
+    3D ULPIN & Vertical Property Mapping System · SIH 2026 · Prototype · Generated by Antigravity IDE
+  </div>
+
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'default',
+      themeVariables: {
+        background: '#ffffff',
+        primaryColor: '#eef2ff',
+        primaryTextColor: '#1e1b4b',
+        primaryBorderColor: '#6366f1',
+        lineColor: '#4f46e5',
+        secondaryColor: '#e0f2fe',
+        tertiaryColor: '#f0fdf4',
+        edgeLabelBackground: '#f8fafc',
+        clusterBkg: '#f1f5f9',
+        clusterBorder: '#cbd5e1',
+        titleColor: '#0f172a',
+        nodeTextColor: '#1e1b4b',
+        actorBkg: '#eef2ff',
+        actorBorder: '#6366f1',
+        actorTextColor: '#1e1b4b',
+        actorLineColor: '#4f46e5',
+        signalColor: '#0891b2',
+        signalTextColor: '#0f172a',
+        noteBkgColor: '#fefce8',
+        noteTextColor: '#1e1b4b',
+        noteBorderColor: '#fbbf24',
+        sequenceNumberColor: '#4f46e5'
+      },
+      flowchart: { curve: 'basis', padding: 20 },
+      sequence: { showSequenceNumbers: false }
+    });
+  </script>
+</body>
+</html>
